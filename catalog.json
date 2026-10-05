@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T15:37:25.745Z",
+  "generatedAt": "2026-10-05T16:07:06.112Z",
   "source": "manual",
   "items": [
     {
@@ -10,15 +10,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 7030,
       "rank": 1,
       "bestRank": 1,
       "soldOut": false,
       "endAt": "2026-10-31T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/ZyffOmjc",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-03-29/932f0511-d21b-4d06-a1f8-011850215ef7.png",
       "headline": null
     },
     {
@@ -28,15 +28,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.1,
+      "reviews": 1867,
       "rank": 2,
       "bestRank": 2,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/VZudEize",
-      "img": null,
+      "img": "https://shopping.toss.im/live/product/42648875/86431940-2e39-4fe9-9ea7-fda081569881.jpeg",
       "headline": null
     },
     {
@@ -46,15 +46,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 128,
       "rank": 3,
       "bestRank": 4,
       "soldOut": false,
       "endAt": "2026-10-31T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jtjZzyyi",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-05-22/9691b746-b318-4a0b-95b8-436af732f244.png",
       "headline": null
     },
     {
@@ -64,15 +64,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 3729,
       "rank": 4,
       "bestRank": 6,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/Pml68V3m",
-      "img": null,
+      "img": "https://shopping.toss.im/c00/live/product/690135977/c00cb828-e1ee-41dd-957f-af192a135de7.jpg",
       "headline": null
     },
     {
@@ -82,16 +82,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 3647,
       "rank": 5,
       "bestRank": 7,
       "soldOut": false,
       "endAt": "2026-10-22T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/LED5fEVq",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2025-10-10/570bcfb4-2e22-421c-be55-06690eebea69.jpeg",
+      "headline": "오늘의특가"
     },
     {
       "id": 1631298045,
@@ -100,15 +100,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 357,
       "rank": 6,
       "bestRank": 10,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/HlpGp0us",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-06-15/07bc2270-a6bd-4f1d-958b-ccfe8a9788e2.jpeg",
       "headline": null
     },
     {
@@ -118,15 +118,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 11547,
       "rank": 7,
       "bestRank": 12,
       "soldOut": false,
       "endAt": "2026-10-19T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Lekq4sjx",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-07-24/e9a8a788-8378-4e14-b831-a8d76451c775.jpeg",
       "headline": null
     },
     {
@@ -136,16 +136,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 1136,
       "rank": 8,
       "bestRank": 13,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/FZsrWbjC",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2025-12-11/e53d635d-ea64-4660-8af2-ae5e395ee09b.png",
+      "headline": "특가"
     },
     {
       "id": 2074457149,
@@ -154,15 +154,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.5,
+      "reviews": 1698,
       "rank": 9,
       "bestRank": 16,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/vKyOd5k2",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-28/8de71828-8d3e-4830-bc54-28c0670422ac.jpeg",
       "headline": null
     },
     {
@@ -172,15 +172,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.3,
+      "reviews": 614,
       "rank": 10,
       "bestRank": 17,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/TXHjrUk8",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-05-11/bf99e1d9-b871-4e5c-9740-f0a4ec47b83f.jpeg",
       "headline": null
     },
     {
@@ -190,16 +190,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 7370,
       "rank": 11,
       "bestRank": 19,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/FSM6Dtze",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2024-08-29/22f5095f-fa06-46ae-a8a1-5692d8bbd734.jpeg",
+      "headline": "제로"
     },
     {
       "id": 1591130807,
@@ -208,16 +208,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.1,
+      "reviews": 4203,
       "rank": 12,
       "bestRank": 20,
       "soldOut": false,
       "endAt": "2026-10-22T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/x6YiMdzj",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/product/471659/d2d55882-3762-4e43-b15d-45a48642b090.jpeg",
+      "headline": "화장대 혁명템"
     },
     {
       "id": 676543646,
@@ -226,16 +226,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.2,
+      "reviews": 813,
       "rank": 13,
       "bestRank": 21,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/J1lzYwjn",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2026-09-09/eedd5246-1fd2-47e8-8af5-d77b5e45c17e.png",
+      "headline": "산지직송"
     },
     {
       "id": 252812024,
@@ -244,16 +244,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 3307,
       "rank": 14,
       "bestRank": 22,
       "soldOut": false,
       "endAt": "2026-10-28T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jpcyeENt",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2026-03-05/0dec0cf9-671a-4645-93ef-b5ac0f62c7d9.jpeg",
+      "headline": "코디"
     },
     {
       "id": 660587496,
@@ -270,7 +270,7 @@
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/X6HiRO2A",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-03-10/1457fa33-30ea-4e62-97c5-26f221b20a39.jpeg",
       "headline": null
     },
     {
@@ -288,7 +288,7 @@
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Debn0KaC",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
       "headline": null
     },
     {
@@ -306,7 +306,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/JkMrAL01",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-11-21/deb1ee4d-dfcb-45e0-9011-f298d60bf761.jpeg",
       "headline": null
     },
     {
@@ -324,7 +324,7 @@
       "endAt": "2026-10-20T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/d0pdO4L4",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-14/a811f7ee-0919-46cd-a1ef-1f74557e1e74.jpeg",
       "headline": null
     },
     {
@@ -342,7 +342,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/l9WJ2ov8",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-08-20/39df5acb-bd9c-4b91-8f72-20358ca0f52d.jpeg",
       "headline": null
     },
     {
@@ -360,7 +360,7 @@
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/rg2VimHa",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-07-22/5d67a412-cb20-4b08-a5ea-4b23e8613dd0.jpeg",
       "headline": null
     },
     {
@@ -378,7 +378,7 @@
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/F96KVzKe",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-01-07/deb18acf-ef69-4f6b-9168-7eb26045eace.jpeg",
       "headline": null
     },
     {
@@ -396,7 +396,7 @@
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/P6USqHbn",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-06-05/04ca20ba-b4fb-4b0a-b6bb-1306650cd638.jpeg",
       "headline": null
     },
     {
@@ -406,16 +406,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 3.9,
+      "reviews": 13,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/L1wUTTU",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2025-10-02/6c4f2f71-f345-40ac-bc9a-65fe40601adb.jpeg",
+      "headline": "소문난 맛집"
     },
     {
       "id": 911450998,
@@ -424,16 +424,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.3,
+      "reviews": 1234,
       "rank": 2,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/l1JRqLCz",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/product/1803704/1a0e87e1-8b01-4439-9a5e-c615605a7bf4.jpeg",
+      "headline": "재구매 폭주"
     },
     {
       "id": 902893337,
@@ -442,15 +442,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 106,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/5qKiJKlh",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-08-31/ae73c442-36b1-4192-abee-cc4d17acb980.jpeg",
       "headline": null
     },
     {
@@ -460,15 +460,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.3,
+      "reviews": 332,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/rvAnJ7rD",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-02-11/0a0deb9a-09e8-45a6-a23a-607f1280c665.jpeg",
       "headline": null
     },
     {
@@ -478,16 +478,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.5,
+      "reviews": 401,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/nfvDWZd2",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/product/491759/83972948-534b-4bfb-93a3-043cd3fb8ce4.jpg",
+      "headline": "국내산 아귀"
     },
     {
       "id": 1381267131,
@@ -504,7 +504,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/PKWnuSI4",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-06-25/5a183727-b90d-4b9f-a641-d1da6f8d6e08.png",
       "headline": null
     },
     {
@@ -514,16 +514,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 78,
       "rank": 7,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/JN8I50Y6",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2026-08-06/258ab0ae-dbff-484e-8ff0-bbf8911e0ffd.jpeg",
+      "headline": "팩당4600원"
     },
     {
       "id": 221247660,
@@ -532,15 +532,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 15,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/pNCFSGTb",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-09-02/dc9688e6-46bb-43fd-86ae-233f78d24087.jpeg",
       "headline": null
     },
     {
@@ -558,7 +558,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/DSiKszoe",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-07-03/b0ece6bc-5a01-4ce4-82c6-e43102e9d51d.jpeg",
       "headline": null
     },
     {
@@ -576,7 +576,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/TBHAEYcm",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-03-11/0c893bc7-4d2e-441d-8c57-a4051cf0107e.png",
       "headline": null
     },
     {
@@ -594,7 +594,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/fdO1AFcn",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-04-10/3f6e2ae7-eeb6-4a3d-9138-8703ee4115e8.jpeg",
       "headline": null
     },
     {
@@ -604,15 +604,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.6,
+      "reviews": 209,
       "rank": 12,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/fPkQKj5q",
-      "img": null,
+      "img": "https://shopping.toss.im/live/product/1303533/a788422a-ce84-4367-b7eb-4052c4150e8b.jpeg",
       "headline": null
     },
     {
@@ -630,7 +630,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/J3GbZE5v",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-03-11/03255d69-c493-4f3b-9758-bb293b370d5f.png",
       "headline": null
     },
     {
@@ -648,7 +648,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/JlQ1PmPy",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-10/60c2f320-4e94-488e-8961-547314d5eadd.jpeg",
       "headline": null
     },
     {
@@ -658,15 +658,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.4,
+      "reviews": 10,
       "rank": 15,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/lVTZYZCz",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2024-11-14/656b1c11-a6c8-43cb-aa4f-5da46e504952.jpeg",
       "headline": null
     },
     {
@@ -684,7 +684,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/tYliWRkB",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2024-11-22/a99abec0-eb61-4272-88ad-26abf279c213.png",
       "headline": null
     },
     {
@@ -694,15 +694,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 9204,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/t9So32q9",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-06/ba9574b5-efd8-4dc9-82cf-7fa5cd9b5337.jpeg",
       "headline": null
     },
     {
@@ -720,7 +720,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/d8RXdlad",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-06-01/36952a3e-393c-4115-9a75-b7af8c6d82dc.jpeg",
       "headline": null
     },
     {
@@ -738,7 +738,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/RVJNOTBi",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-03/9e3c8ec6-dc02-4f08-bb54-6aac6f86af78.jpeg",
       "headline": null
     },
     {
@@ -748,16 +748,16 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 1369,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/fZFhnM6l",
-      "img": null,
-      "headline": null
+      "img": "https://shopping.toss.im/live/temp/2025-05-21/8f71f8b1-3302-4384-9ba6-b67c18b67f5f.jpeg",
+      "headline": "진하고 얼큰한 국물"
     },
     {
       "id": 6351126,
@@ -774,7 +774,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/dAjmJiCn",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-07-20/4d1423f1-8a03-407e-b032-7c371d1ecf5e.jpeg",
       "headline": null
     },
     {
@@ -784,15 +784,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 328,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/72EkXges",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-09-24/0ba67eef-7f24-4ab1-8d64-a1dbb146bd6a.jpeg",
       "headline": null
     },
     {
@@ -802,15 +802,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 164,
       "rank": 7,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/NOtG3xUv",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-03/590f47a3-89ec-4464-bd31-4afe30559491.jpeg",
       "headline": null
     },
     {
@@ -820,15 +820,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 59,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/Zgab22ex",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-11-10/6c64d4bf-bb51-4e02-97de-0c28a9105504.png",
       "headline": null
     },
     {
@@ -838,15 +838,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 698,
       "rank": 9,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/rXA1iTdn",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-03/92005b64-7318-48c5-9170-a37c0e92f4dd.jpeg",
       "headline": null
     },
     {
@@ -856,15 +856,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.9,
+      "reviews": 246,
       "rank": 10,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/Jk5jvcYq",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-04-28/82890cc0-476a-4888-aa8d-9086f3b72199.jpeg",
       "headline": null
     },
     {
@@ -874,15 +874,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.7,
+      "reviews": 124,
       "rank": 11,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/vAnTGgmr",
-      "img": null,
+      "img": "https://shopping.toss.im/live/product/29168197/c0c978e1-1aaf-4661-926e-02cbdaa9a80c.jpeg",
       "headline": null
     },
     {
@@ -892,15 +892,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 84,
       "rank": 12,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/VBypPz6v",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-05-22/8abd6e4e-ff9e-4da6-b7df-7c256b29833f.png",
       "headline": null
     },
     {
@@ -910,15 +910,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.8,
+      "reviews": 14,
       "rank": 13,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/hJUsDD9x",
-      "img": null,
+      "img": "https://shopping.toss.im/0c2/live/product/523577621/0c2f0331-7440-4471-b64c-0bb32bd7458d.jpeg",
       "headline": null
     },
     {
@@ -936,7 +936,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/b4ghwn9C",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-03-10/9ab186d7-3bce-4fe2-9734-bbee3c3e14c8.jpeg",
       "headline": null
     },
     {
@@ -954,7 +954,7 @@
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/PcE40QIt",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2026-06-01/ed40c4a0-4583-46ff-9e92-4f3af7a38027.jpeg",
       "headline": null
     },
     {
@@ -964,15 +964,15 @@
       "price": null,
       "orig": null,
       "dc": null,
-      "score": null,
-      "reviews": null,
+      "score": 4.9,
+      "reviews": 185,
       "rank": 16,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/pmZtgl9x",
-      "img": null,
+      "img": "https://shopping.toss.im/live/temp/2025-07-15/9897abad-c8d5-49bb-a11e-f13f2391830d.jpeg",
       "headline": null
     }
   ]
