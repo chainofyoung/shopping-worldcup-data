@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T01:17:10.878Z",
+  "generatedAt": "2026-10-07T07:59:49.934Z",
   "source": "manual",
   "items": [
     {
@@ -11,7 +11,7 @@
       "orig": 59800,
       "dc": 88,
       "score": 4.7,
-      "reviews": 6757,
+      "reviews": 7053,
       "rank": 1,
       "bestRank": 1,
       "soldOut": false,
@@ -19,7 +19,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/VTN2Fu6q",
       "img": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-      "headline": null
+      "headline": null,
+      "views": 537317
     },
     {
       "id": 400547225,
@@ -29,15 +30,35 @@
       "orig": 15900,
       "dc": 56,
       "score": 4.6,
-      "reviews": 5328,
+      "reviews": 5634,
       "rank": 2,
-      "bestRank": 4,
+      "bestRank": 3,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/BRybxUy4",
       "img": "https://shopping.toss.im/live/temp/2025-04-14/4712e287-d2a8-4018-945b-432d63b9f5b2.jpeg",
-      "headline": "온가족 밥도둑"
+      "headline": "온가족 밥도둑",
+      "views": 380295
+    },
+    {
+      "id": 1559147650,
+      "cat": "best",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "orig": 14900,
+      "dc": 66,
+      "score": 4.8,
+      "reviews": 3696,
+      "rank": 3,
+      "bestRank": 4,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/Pll2YED9",
+      "img": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+      "headline": null,
+      "views": 207470
     },
     {
       "id": 648889269,
@@ -47,15 +68,16 @@
       "orig": 39000,
       "dc": 91,
       "score": 4.6,
-      "reviews": 906,
-      "rank": 3,
-      "bestRank": 5,
+      "reviews": 908,
+      "rank": 4,
+      "bestRank": 9,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/v79EfAvn",
       "img": "https://shopping.toss.im/live/temp/2025-08-28/59874c41-91da-4f9c-9b78-e1b367f0ab38.jpeg",
-      "headline": "활용도좋은 세트구성"
+      "headline": "활용도좋은 세트구성",
+      "views": 71619
     },
     {
       "id": 287757514,
@@ -66,14 +88,34 @@
       "dc": 77,
       "score": 4.4,
       "reviews": 2080,
-      "rank": 4,
-      "bestRank": 6,
+      "rank": 5,
+      "bestRank": 10,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/HeJXzqEu",
       "img": "https://shopping.toss.im/live/temp/2026-01-22/afa5328e-d7ca-4ef8-bee0-fd5bb5ad871a.jpeg",
-      "headline": "1kg에 이가격"
+      "headline": "1kg에 이가격",
+      "views": 6423
+    },
+    {
+      "id": 2137394181,
+      "cat": "best",
+      "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
+      "price": 6860,
+      "orig": 27800,
+      "dc": 75,
+      "score": 4.4,
+      "reviews": 3684,
+      "rank": 6,
+      "bestRank": 11,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/BGyabs9b",
+      "img": "https://shopping.toss.im/live/temp/2025-09-11/e6997ced-4107-49b3-947c-6213e668d801.jpeg",
+      "headline": "당일생산",
+      "views": 84612
     },
     {
       "id": 622899315,
@@ -83,15 +125,16 @@
       "orig": 16500,
       "dc": 58,
       "score": 4.5,
-      "reviews": 10506,
-      "rank": 5,
-      "bestRank": 7,
+      "reviews": 10544,
+      "rank": 7,
+      "bestRank": 13,
       "soldOut": false,
       "endAt": "2026-10-15T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/3h30b1Gj",
       "img": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-      "headline": "압도적 재구매율"
+      "headline": "압도적 재구매율",
+      "views": 88639
     },
     {
       "id": 985871495,
@@ -102,32 +145,15 @@
       "dc": 62,
       "score": 4.8,
       "reviews": 4491,
-      "rank": 6,
-      "bestRank": 8,
+      "rank": 8,
+      "bestRank": 15,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jBealPLe",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/0466061f-5a7a-4125-b385-4a3827351a7a.jpeg",
-      "headline": "쌀때쟁여요"
-    },
-    {
-      "id": 1559147650,
-      "cat": "best",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "orig": 14900,
-      "dc": 66,
-      "score": 4.8,
-      "reviews": 3543,
-      "rank": 7,
-      "bestRank": 10,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/Pll2YED9",
-      "img": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-      "headline": null
+      "headline": "쌀때쟁여요",
+      "views": 18671
     },
     {
       "id": 1622818279,
@@ -137,51 +163,16 @@
       "orig": 15600,
       "dc": 64,
       "score": 4.6,
-      "reviews": 2333,
-      "rank": 8,
-      "bestRank": 12,
+      "reviews": 2353,
+      "rank": 9,
+      "bestRank": 17,
       "soldOut": false,
       "endAt": "2026-10-15T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/fADxJD4B",
       "img": "https://shopping.toss.im/live/temp/2026-07-15/c7ad31ad-2d18-4744-89f8-586840d18d9b.jpeg",
-      "headline": null
-    },
-    {
-      "id": 493572488,
-      "cat": "best",
-      "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
-      "price": 6230,
-      "orig": 30000,
-      "dc": 79,
-      "score": 4.7,
-      "reviews": 3015,
-      "rank": 9,
-      "bestRank": 13,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/hqMMMkjs",
-      "img": "https://shopping.toss.im/live/temp/2026-06-25/2f74f94a-6229-4af8-b0a2-3781007da2d1.jpeg",
-      "headline": null
-    },
-    {
-      "id": 2137394181,
-      "cat": "best",
-      "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
-      "price": 6860,
-      "orig": 27800,
-      "dc": 75,
-      "score": 4.4,
-      "reviews": 3677,
-      "rank": 10,
-      "bestRank": 16,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/BGyabs9b",
-      "img": "https://shopping.toss.im/live/temp/2025-09-11/e6997ced-4107-49b3-947c-6213e668d801.jpeg",
-      "headline": "당일생산"
+      "headline": null,
+      "views": 103825
     },
     {
       "id": 504835165,
@@ -191,15 +182,73 @@
       "orig": 29900,
       "dc": 83,
       "score": 4.7,
-      "reviews": 6001,
-      "rank": 11,
-      "bestRank": 19,
+      "reviews": 6056,
+      "rank": 10,
+      "bestRank": 18,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/3pxGMw9A",
       "img": "https://shopping.toss.im/live/temp/2026-02-06/8ce9ed24-6791-40c1-bece-7ac8e2dca0e9.jpeg",
-      "headline": "터치 컨트롤 기능"
+      "headline": "터치 컨트롤 기능",
+      "views": 199390
+    },
+    {
+      "id": 33786611,
+      "cat": "best",
+      "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "price": 5950,
+      "orig": 29900,
+      "dc": 80,
+      "score": 4.6,
+      "reviews": 1589,
+      "rank": 11,
+      "bestRank": 19,
+      "soldOut": false,
+      "endAt": "2026-10-15T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/VF8pk38B",
+      "img": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
+      "headline": null,
+      "views": 174677
+    },
+    {
+      "id": 2030798610,
+      "cat": "best",
+      "name": "이선별 밀크카스테라, 1kg, 1박스",
+      "price": 6900,
+      "orig": 31900,
+      "dc": 78,
+      "score": 4.5,
+      "reviews": 6315,
+      "rank": 12,
+      "bestRank": 20,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/HGTksQ3h",
+      "img": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
+      "headline": "초대용량",
+      "views": 269764
+    },
+    {
+      "id": 1332141340,
+      "cat": "best",
+      "name": "맥콜 제로슈거, 190ml, 30개",
+      "price": 7600,
+      "orig": 17900,
+      "dc": 57,
+      "score": 4.8,
+      "reviews": 655,
+      "rank": 13,
+      "bestRank": 22,
+      "soldOut": false,
+      "endAt": "2026-10-15T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/RPF62iji",
+      "img": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
+      "headline": null,
+      "views": 71777
     },
     {
       "id": 442956120,
@@ -210,32 +259,15 @@
       "dc": 35,
       "score": 4.7,
       "reviews": 9160,
-      "rank": 12,
-      "bestRank": 20,
+      "rank": 14,
+      "bestRank": 23,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/B6lr2zad",
       "img": "https://shopping.toss.im/live/temp/2025-07-30/cad91a6f-29f0-4798-8417-c55c7e069d75.jpeg",
-      "headline": "모두 여기서 사요"
-    },
-    {
-      "id": 2030798610,
-      "cat": "best",
-      "name": "이선별 밀크카스테라, 1kg, 1박스",
-      "price": 6900,
-      "orig": 31900,
-      "dc": 78,
-      "score": 4.5,
-      "reviews": 6177,
-      "rank": 13,
-      "bestRank": 21,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/HGTksQ3h",
-      "img": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
-      "headline": "초대용량"
+      "headline": "모두 여기서 사요",
+      "views": 9867
     },
     {
       "id": 824710336,
@@ -245,69 +277,16 @@
       "orig": 27800,
       "dc": 74,
       "score": 4.5,
-      "reviews": 185,
-      "rank": 14,
-      "bestRank": 22,
+      "reviews": 188,
+      "rank": 15,
+      "bestRank": 25,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/dsOyOGWz",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/726d6ca7-c9b2-4a3d-ad93-6eff7d9864b5.png",
-      "headline": null
-    },
-    {
-      "id": 33786611,
-      "cat": "best",
-      "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-      "price": 5950,
-      "orig": 29900,
-      "dc": 80,
-      "score": 4.6,
-      "reviews": 1492,
-      "rank": 15,
-      "bestRank": 25,
-      "soldOut": false,
-      "endAt": "2026-10-15T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/VF8pk38B",
-      "img": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1332141340,
-      "cat": "best",
-      "name": "맥콜 제로슈거, 190ml, 30개",
-      "price": 7600,
-      "orig": 17900,
-      "dc": 57,
-      "score": 4.8,
-      "reviews": 539,
-      "rank": 16,
-      "bestRank": 26,
-      "soldOut": false,
-      "endAt": "2026-10-15T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/RPF62iji",
-      "img": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
-      "headline": null
-    },
-    {
-      "id": 820919209,
-      "cat": "best",
-      "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
-      "price": 5950,
-      "orig": 16600,
-      "dc": 64,
-      "score": 4.8,
-      "reviews": 326,
-      "rank": 17,
-      "bestRank": 29,
-      "soldOut": false,
-      "endAt": "2026-10-15T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/14g0kabw",
-      "img": "https://shopping.toss.im/live/temp/2026-09-11/520e07ab-3a43-4bc4-ad06-f6922cbf88c0.png",
-      "headline": null
+      "headline": null,
+      "views": 23369
     },
     {
       "id": 1628999886,
@@ -317,15 +296,16 @@
       "orig": 46900,
       "dc": 76,
       "score": 4.7,
-      "reviews": 2326,
-      "rank": 18,
-      "bestRank": 31,
+      "reviews": 2434,
+      "rank": 16,
+      "bestRank": 27,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/ZXqUXdUj",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 141027
     },
     {
       "id": 237201532,
@@ -334,34 +314,17 @@
       "price": 4620,
       "orig": 39600,
       "dc": 88,
-      "score": 4.7,
-      "reviews": 1575,
-      "rank": 19,
-      "bestRank": 32,
+      "score": 4.6,
+      "reviews": 1649,
+      "rank": 17,
+      "bestRank": 30,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Vi9adxn2",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/700e7092-4de8-4f4f-9e98-d7e271273554.png",
-      "headline": null
-    },
-    {
-      "id": 570127898,
-      "cat": "best",
-      "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
-      "price": 6990,
-      "orig": 35960,
-      "dc": 80,
-      "score": 4.7,
-      "reviews": 295,
-      "rank": 20,
-      "bestRank": 39,
-      "soldOut": false,
-      "endAt": "2026-10-15T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/R73SPCDi",
-      "img": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
-      "headline": null
+      "headline": null,
+      "views": 83239
     },
     {
       "id": 1494304883,
@@ -371,15 +334,54 @@
       "orig": 24400,
       "dc": 72,
       "score": 4.6,
-      "reviews": 469,
-      "rank": 21,
-      "bestRank": 40,
+      "reviews": 524,
+      "rank": 18,
+      "bestRank": 36,
       "soldOut": false,
       "endAt": "2026-10-15T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/VAlIsSQk",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/033ee196-f2be-4f97-b363-f6955b0f83ed.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 42359
+    },
+    {
+      "id": 1405127136,
+      "cat": "best",
+      "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
+      "price": 8253,
+      "orig": 24800,
+      "dc": 66,
+      "score": 4.6,
+      "reviews": 17167,
+      "rank": 19,
+      "bestRank": 37,
+      "soldOut": false,
+      "endAt": "2026-10-15T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/xUdBRjtn",
+      "img": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
+      "headline": null,
+      "views": 54515
+    },
+    {
+      "id": 570127898,
+      "cat": "best",
+      "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+      "price": 6990,
+      "orig": 35960,
+      "dc": 80,
+      "score": 4.7,
+      "reviews": 344,
+      "rank": 20,
+      "bestRank": 38,
+      "soldOut": false,
+      "endAt": "2026-10-15T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/R73SPCDi",
+      "img": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
+      "headline": null,
+      "views": 49370
     },
     {
       "id": 1217085519,
@@ -390,32 +392,72 @@
       "dc": 65,
       "score": 4.3,
       "reviews": 616,
-      "rank": 22,
+      "rank": 21,
       "bestRank": 41,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/TXHjrUk8",
       "img": "https://shopping.toss.im/live/temp/2026-05-11/bf99e1d9-b871-4e5c-9740-f0a4ec47b83f.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 14038
     },
     {
-      "id": 1535987508,
+      "id": 1661945335,
       "cat": "best",
-      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
-      "price": 9290,
-      "orig": 21600,
-      "dc": 56,
-      "score": 4.3,
-      "reviews": 2695,
-      "rank": 23,
-      "bestRank": 47,
+      "name": "농심 신신안너짜, 신라면 10입 + 안성탕면 5입 + 너구리 5입 + 짜파게티 5입, 1박스",
+      "price": 17893,
+      "orig": 22110,
+      "dc": 19,
+      "score": 4.8,
+      "reviews": 897,
+      "rank": 22,
+      "bestRank": 43,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/pPCnmgj3",
-      "img": "https://shopping.toss.im/live/temp/2025-02-04/dca476a4-4227-4c74-adfc-cf7825f42039.png",
-      "headline": "편하게 뱃살보정"
+      "url": "https://toss.shopping/_m/3yjcJ6Aj",
+      "img": "https://shopping.toss.im/live/temp/2026-04-03/e4b71444-7c17-4a35-84ce-1218e8cd6e08.jpeg",
+      "headline": null,
+      "views": 6332
+    },
+    {
+      "id": 45666314,
+      "cat": "best",
+      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "price": 25832,
+      "orig": 49100,
+      "dc": 47,
+      "score": 4.9,
+      "reviews": 576,
+      "rank": 23,
+      "bestRank": 46,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/NarcXSyx",
+      "img": "https://shopping.toss.im/live/temp/2025-03-31/0b7d0700-81fb-43ad-87c9-f93470ee91f5.jpeg",
+      "headline": null,
+      "views": 44522
+    },
+    {
+      "id": 820919209,
+      "cat": "best",
+      "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
+      "price": 5950,
+      "orig": 16600,
+      "dc": 64,
+      "score": 4.8,
+      "reviews": 365,
+      "rank": 24,
+      "bestRank": 49,
+      "soldOut": false,
+      "endAt": "2026-10-15T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/14g0kabw",
+      "img": "https://shopping.toss.im/live/temp/2026-09-11/520e07ab-3a43-4bc4-ad06-f6922cbf88c0.png",
+      "headline": null,
+      "views": 34905
     },
     {
       "id": 1042517963,
@@ -426,104 +468,15 @@
       "dc": 66,
       "score": 4.5,
       "reviews": 1342,
-      "rank": 24,
-      "bestRank": 48,
+      "rank": 25,
+      "bestRank": 52,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/3AIAMSI9",
       "img": "https://shopping.toss.im/live/temp/2025-05-28/e1f7384e-50b4-445e-827a-9558a7af939d.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1405127136,
-      "cat": "best",
-      "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
-      "price": 8253,
-      "orig": 24800,
-      "dc": 66,
-      "score": 4.6,
-      "reviews": 17134,
-      "rank": 25,
-      "bestRank": 50,
-      "soldOut": false,
-      "endAt": "2026-10-15T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/xUdBRjtn",
-      "img": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1661945335,
-      "cat": "best",
-      "name": "농심 신신안너짜, 신라면 10입 + 안성탕면 5입 + 너구리 5입 + 짜파게티 5입, 1박스",
-      "price": 17893,
-      "orig": 22110,
-      "dc": 19,
-      "score": 4.8,
-      "reviews": 896,
-      "rank": 26,
-      "bestRank": 52,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/3yjcJ6Aj",
-      "img": "https://shopping.toss.im/live/temp/2026-04-03/e4b71444-7c17-4a35-84ce-1218e8cd6e08.jpeg",
-      "headline": null
-    },
-    {
-      "id": 791190712,
-      "cat": "best",
-      "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
-      "price": 6900,
-      "orig": 31900,
-      "dc": 78,
-      "score": 4.7,
-      "reviews": 116,
-      "rank": 27,
-      "bestRank": 54,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/PJikruPk",
-      "img": "https://shopping.toss.im/live/temp/2026-07-15/9e7a0840-2cf5-4a4b-97aa-82dc8d41c11d.jpeg",
-      "headline": "그린너트"
-    },
-    {
-      "id": 1674552550,
-      "cat": "best",
-      "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
-      "price": 16900,
-      "orig": 299000,
-      "dc": 94,
-      "score": 4.5,
-      "reviews": 163,
-      "rank": 28,
-      "bestRank": 56,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/b57AK2h2",
-      "img": "https://shopping.toss.im/live/temp/2026-02-05/cc0d4704-cb01-4c25-a95d-c87bef7f2518.jpeg",
-      "headline": null
-    },
-    {
-      "id": 432197809,
-      "cat": "best",
-      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
-      "price": 8200,
-      "orig": 15800,
-      "dc": 48,
-      "score": 4.8,
-      "reviews": 10049,
-      "rank": 29,
-      "bestRank": 60,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/VGYPOFjx",
-      "img": "https://shopping.toss.im/live/temp/2026-06-16/b1e9c145-5424-4198-9449-4beace9264e8.jpeg",
-      "headline": "식사 대용"
+      "headline": null,
+      "views": 22835
     },
     {
       "id": 1631298045,
@@ -533,51 +486,16 @@
       "orig": 32500,
       "dc": 97,
       "score": 4.6,
-      "reviews": 390,
-      "rank": 30,
-      "bestRank": 63,
+      "reviews": 401,
+      "rank": 26,
+      "bestRank": 55,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/HlpGp0us",
       "img": "https://shopping.toss.im/live/temp/2026-06-15/07bc2270-a6bd-4f1d-958b-ccfe8a9788e2.jpeg",
-      "headline": null
-    },
-    {
-      "id": 45666314,
-      "cat": "best",
-      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "price": 25832,
-      "orig": 49100,
-      "dc": 47,
-      "score": 4.9,
-      "reviews": 569,
-      "rank": 31,
-      "bestRank": 64,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/NarcXSyx",
-      "img": "https://shopping.toss.im/live/temp/2025-03-31/0b7d0700-81fb-43ad-87c9-f93470ee91f5.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1635368294,
-      "cat": "best",
-      "name": "쉬블림로브 캔버스 에코 숄더백 TS0007, 블랙, Free, 1개",
-      "price": 5900,
-      "orig": 32900,
-      "dc": 82,
-      "score": 4.2,
-      "reviews": 323,
-      "rank": 32,
-      "bestRank": 67,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/1Vq2X9is",
-      "img": "https://shopping.toss.im/live/temp/2026-07-15/1af63491-29fa-4122-b59e-55f30de41828.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 57297
     },
     {
       "id": 1153608471,
@@ -587,69 +505,73 @@
       "orig": 37800,
       "dc": 59,
       "score": 4.6,
-      "reviews": 1199,
-      "rank": 33,
-      "bestRank": 70,
+      "reviews": 1201,
+      "rank": 27,
+      "bestRank": 57,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jyJnwIO5",
       "img": "https://shopping.toss.im/live/temp/2025-09-16/fa3a3aef-3be4-4839-95cd-03d886f3fe89.jpeg",
-      "headline": "요리필수·리뷰극찬"
+      "headline": "요리필수·리뷰극찬",
+      "views": 17639
     },
     {
-      "id": 1209525744,
+      "id": 432197809,
       "cat": "best",
-      "name": "연세우유 저지방 우유, 190ml, 48개",
-      "price": 24500,
-      "orig": 43800,
-      "dc": 44,
+      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+      "price": 8200,
+      "orig": 15800,
+      "dc": 48,
       "score": 4.8,
-      "reviews": 3495,
-      "rank": 34,
-      "bestRank": 78,
+      "reviews": 10061,
+      "rank": 28,
+      "bestRank": 59,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/7yx3Xf1w",
-      "img": "https://shopping.toss.im/live/temp/2026-03-26/8553408c-608d-4a27-a221-1878b4e0614a.jpeg",
-      "headline": "저지방으로 가벼운"
+      "url": "https://toss.shopping/_m/VGYPOFjx",
+      "img": "https://shopping.toss.im/live/temp/2026-06-16/b1e9c145-5424-4198-9449-4beace9264e8.jpeg",
+      "headline": "식사 대용",
+      "views": 49756
     },
     {
-      "id": 1564450537,
+      "id": 791190712,
       "cat": "best",
-      "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
-      "price": 12825,
-      "orig": 24500,
-      "dc": 47,
-      "score": 4.5,
-      "reviews": 756,
-      "rank": 35,
-      "bestRank": 80,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/DtEoQ51q",
-      "img": "https://shopping.toss.im/0672b5b6-bcb1-4bc5-aa28-068b516001e8.jpg",
-      "headline": "햇마늘"
-    },
-    {
-      "id": 663272792,
-      "cat": "best",
-      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-      "price": 10100,
-      "orig": 25900,
-      "dc": 61,
+      "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
+      "price": 6900,
+      "orig": 31900,
+      "dc": 78,
       "score": 4.7,
-      "reviews": 1167,
-      "rank": 36,
-      "bestRank": 86,
+      "reviews": 126,
+      "rank": 29,
+      "bestRank": 65,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/FZsrWbjC",
-      "img": "https://shopping.toss.im/live/temp/2025-12-11/e53d635d-ea64-4660-8af2-ae5e395ee09b.png",
-      "headline": "특가"
+      "url": "https://toss.shopping/_m/PJikruPk",
+      "img": "https://shopping.toss.im/live/temp/2026-07-15/9e7a0840-2cf5-4a4b-97aa-82dc8d41c11d.jpeg",
+      "headline": "그린너트",
+      "views": 40784
+    },
+    {
+      "id": 1535987508,
+      "cat": "best",
+      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "price": 9290,
+      "orig": 21600,
+      "dc": 56,
+      "score": 4.3,
+      "reviews": 2698,
+      "rank": 30,
+      "bestRank": 66,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/pPCnmgj3",
+      "img": "https://shopping.toss.im/live/temp/2025-02-04/dca476a4-4227-4c74-adfc-cf7825f42039.png",
+      "headline": "편하게 뱃살보정",
+      "views": 64889
     },
     {
       "id": 1427428349,
@@ -659,15 +581,73 @@
       "orig": 14900,
       "dc": 33,
       "score": 4.6,
-      "reviews": 11741,
-      "rank": 37,
-      "bestRank": 89,
+      "reviews": 11782,
+      "rank": 31,
+      "bestRank": 68,
       "soldOut": false,
       "endAt": "2026-10-19T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Lekq4sjx",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/e9a8a788-8378-4e14-b831-a8d76451c775.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 212711
+    },
+    {
+      "id": 1209525744,
+      "cat": "best",
+      "name": "연세우유 저지방 우유, 190ml, 48개",
+      "price": 24500,
+      "orig": 43800,
+      "dc": 44,
+      "score": 4.8,
+      "reviews": 3499,
+      "rank": 32,
+      "bestRank": 70,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/7yx3Xf1w",
+      "img": "https://shopping.toss.im/live/temp/2026-03-26/8553408c-608d-4a27-a221-1878b4e0614a.jpeg",
+      "headline": "저지방으로 가벼운",
+      "views": 46372
+    },
+    {
+      "id": 663272792,
+      "cat": "best",
+      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+      "price": 10100,
+      "orig": 25900,
+      "dc": 61,
+      "score": 4.7,
+      "reviews": 1169,
+      "rank": 33,
+      "bestRank": 75,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/FZsrWbjC",
+      "img": "https://shopping.toss.im/live/temp/2025-12-11/e53d635d-ea64-4660-8af2-ae5e395ee09b.png",
+      "headline": "특가",
+      "views": 100746
+    },
+    {
+      "id": 1635368294,
+      "cat": "best",
+      "name": "쉬블림로브 캔버스 에코 숄더백 TS0007, 블랙, Free, 1개",
+      "price": 5900,
+      "orig": 32900,
+      "dc": 82,
+      "score": 4.2,
+      "reviews": 324,
+      "rank": 34,
+      "bestRank": 83,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/1Vq2X9is",
+      "img": "https://shopping.toss.im/live/temp/2026-07-15/1af63491-29fa-4122-b59e-55f30de41828.jpeg",
+      "headline": null,
+      "views": 44940
     },
     {
       "id": 423523813,
@@ -677,33 +657,16 @@
       "orig": 28400,
       "dc": 73,
       "score": 4.6,
-      "reviews": 1565,
-      "rank": 38,
-      "bestRank": 96,
+      "reviews": 1601,
+      "rank": 35,
+      "bestRank": 86,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Tg3VMJB3",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
-      "headline": "7P 구성"
-    },
-    {
-      "id": 496511895,
-      "cat": "best",
-      "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
-      "price": 18900,
-      "orig": 38900,
-      "dc": 51,
-      "score": 4.6,
-      "reviews": 1483,
-      "rank": 39,
-      "bestRank": 100,
-      "soldOut": false,
-      "endAt": "2026-10-23T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/N2mDxATq",
-      "img": "https://shopping.toss.im/live/temp/2026-02-09/f2e5b456-3d79-4109-93ad-e51bbf4a6431.jpeg",
-      "headline": "고기·지방 황금비율"
+      "headline": "7P 구성",
+      "views": 137797
     },
     {
       "id": 1191210259,
@@ -713,33 +676,35 @@
       "orig": 14800,
       "dc": 63,
       "score": 4.6,
-      "reviews": 3673,
-      "rank": 40,
-      "bestRank": 109,
+      "reviews": 3685,
+      "rank": 36,
+      "bestRank": 89,
       "soldOut": false,
       "endAt": "2026-10-22T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/LED5fEVq",
       "img": "https://shopping.toss.im/live/temp/2025-10-10/570bcfb4-2e22-421c-be55-06690eebea69.jpeg",
-      "headline": "오늘의특가"
+      "headline": "오늘의특가",
+      "views": 137809
     },
     {
-      "id": 168195024,
+      "id": 1564450537,
       "cat": "best",
-      "name": "애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
-      "price": 12490,
-      "orig": 18900,
-      "dc": 33,
-      "score": 4.7,
-      "reviews": 1957,
-      "rank": 41,
-      "bestRank": 112,
+      "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
+      "price": 12825,
+      "orig": 24500,
+      "dc": 47,
+      "score": 4.5,
+      "reviews": 771,
+      "rank": 37,
+      "bestRank": 102,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/h56NYoLt",
-      "img": "https://shopping.toss.im/live/temp/2026-06-12/56228d17-abfb-4fad-9038-e7d13761df9f.jpeg",
-      "headline": "아이들추천"
+      "url": "https://toss.shopping/_m/DtEoQ51q",
+      "img": "https://shopping.toss.im/0672b5b6-bcb1-4bc5-aa28-068b516001e8.jpg",
+      "headline": "햇마늘",
+      "views": 24804
     },
     {
       "id": 660587496,
@@ -749,123 +714,16 @@
       "orig": 17900,
       "dc": 58,
       "score": 4.5,
-      "reviews": 2378,
-      "rank": 42,
-      "bestRank": 114,
+      "reviews": 2399,
+      "rank": 38,
+      "bestRank": 104,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/X6HiRO2A",
       "img": "https://shopping.toss.im/live/temp/2026-03-10/1457fa33-30ea-4e62-97c5-26f221b20a39.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1815201896,
-      "cat": "best",
-      "name": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
-      "price": 12900,
-      "orig": 25900,
-      "dc": 50,
-      "score": 4.4,
-      "reviews": 5649,
-      "rank": 43,
-      "bestRank": 115,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/JOCy7Flw",
-      "img": "https://shopping.toss.im/live/temp/2025-07-01/53894864-64c1-4f39-8f50-acb4ab605615.jpeg",
-      "headline": "간편한 식사대용"
-    },
-    {
-      "id": 124221409,
-      "cat": "best",
-      "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
-      "price": 9800,
-      "orig": 39900,
-      "dc": 75,
-      "score": 4.1,
-      "reviews": 223,
-      "rank": 44,
-      "bestRank": 116,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/x4aslMd1",
-      "img": "https://shopping.toss.im/live/temp/2026-09-16/592d7cb9-6e89-4db8-81ce-9c105ec1c457.png",
-      "headline": null
-    },
-    {
-      "id": 1669982338,
-      "cat": "best",
-      "name": "쉬블림로브 여성 체크 파자마 세트 느와르 GWD0630, FREE, 1개",
-      "price": 7315,
-      "orig": 32900,
-      "dc": 77,
-      "score": 4.1,
-      "reviews": 348,
-      "rank": 45,
-      "bestRank": 124,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/fqlviqpe",
-      "img": "https://shopping.toss.im/live/product/26681571/be0596b4-cdc8-4d3e-8f5c-4b73d3432066.jpeg",
-      "headline": "홈웨어 베스트"
-    },
-    {
-      "id": 1723910214,
-      "cat": "best",
-      "name": "CJ제일제당 쇠고기 진한다시, 1kg, 1개",
-      "price": 7900,
-      "orig": 14900,
-      "dc": 46,
-      "score": 4.5,
-      "reviews": 955,
-      "rank": 46,
-      "bestRank": 129,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/NX3dCIbw",
-      "img": "https://shopping.toss.im/live/temp/2026-04-30/ee13890b-6fbb-4866-a305-c565d4f82212.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1635334996,
-      "cat": "best",
-      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "price": 8890,
-      "orig": 17800,
-      "dc": 50,
-      "score": 4.8,
-      "reviews": 11559,
-      "rank": 47,
-      "bestRank": 132,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/hk0TPiBj",
-      "img": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-      "headline": "당일출발.후기보증"
-    },
-    {
-      "id": 1078499248,
-      "cat": "best",
-      "name": "삼육두유 달콤한 B, 190ml, 15개입, 1박스",
-      "price": 7500,
-      "orig": 15000,
-      "dc": 50,
-      "score": 4.8,
-      "reviews": 355,
-      "rank": 48,
-      "bestRank": 136,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/Tw6ILY9s",
-      "img": "https://shopping.toss.im/live/temp/2025-08-06/98faa4de-cb8a-4e71-aa5c-5a8cd8ffaeac.jpeg",
-      "headline": "엠디 추천템"
+      "headline": null,
+      "views": 46236
     },
     {
       "id": 887314142,
@@ -875,33 +733,16 @@
       "orig": 17560,
       "dc": 37,
       "score": 4.6,
-      "reviews": 868,
-      "rank": 49,
-      "bestRank": 143,
+      "reviews": 871,
+      "rank": 39,
+      "bestRank": 109,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/F96KVzKe",
       "img": "https://shopping.toss.im/live/temp/2026-01-07/deb18acf-ef69-4f6b-9168-7eb26045eace.jpeg",
-      "headline": "2026 새해특가"
-    },
-    {
-      "id": 1452915195,
-      "cat": "best",
-      "name": "아임에코 가벼운샘 생수, 1L, 12개",
-      "price": 3900,
-      "orig": 7000,
-      "dc": 44,
-      "score": 4.8,
-      "reviews": 511,
-      "rank": 50,
-      "bestRank": 144,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/TxqIkH0g",
-      "img": "https://shopping.toss.im/live/temp/2026-08-06/3b268136-a3b6-4290-a446-8d4865f0b095.png",
-      "headline": null
+      "headline": "2026 새해특가",
+      "views": 6476
     },
     {
       "id": 656120699,
@@ -910,142 +751,74 @@
       "price": 9480,
       "orig": 30900,
       "dc": 69,
-      "score": 4.5,
-      "reviews": 175,
-      "rank": 51,
-      "bestRank": 145,
+      "score": 4.4,
+      "reviews": 192,
+      "rank": 40,
+      "bestRank": 111,
       "soldOut": false,
       "endAt": "2026-10-31T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jtjZzyyi",
       "img": "https://shopping.toss.im/live/temp/2026-05-22/9691b746-b318-4a0b-95b8-436af732f244.png",
-      "headline": null
+      "headline": null,
+      "views": 59326
     },
     {
-      "id": 1943259154,
+      "id": 124221409,
       "cat": "best",
-      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "price": 9400,
-      "orig": 15900,
-      "dc": 40,
-      "score": 4.5,
-      "reviews": 2776,
-      "rank": 52,
-      "bestRank": 147,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/nSsJ3tJ",
-      "img": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
-      "headline": "1등급 한돈"
-    },
-    {
-      "id": 997602317,
-      "cat": "best",
-      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-      "price": 8410,
-      "orig": 75000,
-      "dc": 88,
-      "score": 4.3,
-      "reviews": 262,
-      "rank": 53,
-      "bestRank": 149,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/FfLVmEaC",
-      "img": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
-      "headline": "아스파시아"
-    },
-    {
-      "id": 1825154151,
-      "cat": "best",
-      "name": "웅진 애사비 청귤하귤맛, 500ml, 24개",
-      "price": 14900,
-      "orig": 28900,
-      "dc": 48,
-      "score": 4.8,
-      "reviews": 130,
-      "rank": 54,
-      "bestRank": 152,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/BlqEgxYv",
-      "img": "https://shopping.toss.im/live/temp/2026-08-11/3adaf1d8-dfeb-4e92-a2a3-fb8ecc827572.jpeg",
-      "headline": null
-    },
-    {
-      "id": 1313098481,
-      "cat": "best",
-      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
-      "price": 12900,
-      "orig": 19900,
-      "dc": 35,
-      "score": 4.7,
-      "reviews": 3755,
-      "rank": 55,
-      "bestRank": 158,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/Bic0lMAd",
-      "img": "https://shopping.toss.im/b3560c43-b2e0-453b-af62-ce4857eb9936.jpg",
-      "headline": null
-    },
-    {
-      "id": 801667622,
-      "cat": "best",
-      "name": "알제이 스틸 스키니 마스카라, 블랙, 2개",
-      "price": 10900,
-      "orig": 17900,
-      "dc": 39,
+      "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
+      "price": 9800,
+      "orig": 39900,
+      "dc": 75,
       "score": 4.1,
-      "reviews": 3619,
-      "rank": 56,
-      "bestRank": 159,
-      "soldOut": false,
-      "endAt": "2026-10-20T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/d0pdO4L4",
-      "img": "https://shopping.toss.im/live/temp/2026-04-14/a811f7ee-0919-46cd-a1ef-1f74557e1e74.jpeg",
-      "headline": "번짐없이 깔끔하게"
-    },
-    {
-      "id": 636456456,
-      "cat": "best",
-      "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
-      "price": 6910,
-      "orig": 22000,
-      "dc": 68,
-      "score": 4.5,
-      "reviews": 7391,
-      "rank": 57,
-      "bestRank": 160,
-      "soldOut": false,
-      "endAt": null,
-      "source": "manual",
-      "url": "https://toss.shopping/_m/l9WJ2ov8",
-      "img": "https://shopping.toss.im/live/temp/2025-08-20/39df5acb-bd9c-4b91-8f72-20358ca0f52d.jpeg",
-      "headline": null
-    },
-    {
-      "id": 804948362,
-      "cat": "best",
-      "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
-      "price": 15400,
-      "orig": 26900,
-      "dc": 42,
-      "score": 4.8,
-      "reviews": 2999,
-      "rank": 58,
-      "bestRank": 163,
+      "reviews": 251,
+      "rank": 41,
+      "bestRank": 115,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/rg2VimHa",
-      "img": "https://shopping.toss.im/live/temp/2025-07-22/5d67a412-cb20-4b08-a5ea-4b23e8613dd0.jpeg",
-      "headline": "BEST조합 특가"
+      "url": "https://toss.shopping/_m/x4aslMd1",
+      "img": "https://shopping.toss.im/live/temp/2026-09-16/592d7cb9-6e89-4db8-81ce-9c105ec1c457.png",
+      "headline": null,
+      "views": 39146
+    },
+    {
+      "id": 1669982338,
+      "cat": "best",
+      "name": "쉬블림로브 여성 체크 파자마 세트 느와르 GWD0630, FREE, 1개",
+      "price": 7315,
+      "orig": 32900,
+      "dc": 77,
+      "score": 4.1,
+      "reviews": 349,
+      "rank": 42,
+      "bestRank": 116,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/fqlviqpe",
+      "img": "https://shopping.toss.im/live/product/26681571/be0596b4-cdc8-4d3e-8f5c-4b73d3432066.jpeg",
+      "headline": "홈웨어 베스트",
+      "views": 37310
+    },
+    {
+      "id": 86378793,
+      "cat": "best",
+      "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
+      "price": 12800,
+      "orig": 24900,
+      "dc": 48,
+      "score": 4.5,
+      "reviews": 794,
+      "rank": 43,
+      "bestRank": 120,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/hU2MGoE8",
+      "img": "https://shopping.toss.im/live/product/86205/575d1600-6ea9-49a6-a48e-19eba11be841.jpg",
+      "headline": null,
+      "views": 44819
     },
     {
       "id": 252812024,
@@ -1055,69 +828,206 @@
       "orig": 15980,
       "dc": 34,
       "score": 4.6,
-      "reviews": 3321,
-      "rank": 59,
-      "bestRank": 165,
+      "reviews": 3339,
+      "rank": 44,
+      "bestRank": 121,
       "soldOut": false,
       "endAt": "2026-10-28T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/jpcyeENt",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/0dec0cf9-671a-4645-93ef-b5ac0f62c7d9.jpeg",
-      "headline": "코디"
+      "headline": "코디",
+      "views": 43063
     },
     {
-      "id": 782213114,
+      "id": 1635334996,
       "cat": "best",
-      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
-      "price": 8900,
-      "orig": 39600,
-      "dc": 77,
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 8890,
+      "orig": 17800,
+      "dc": 50,
+      "score": 4.8,
+      "reviews": 11628,
+      "rank": 45,
+      "bestRank": 122,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/hk0TPiBj",
+      "img": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
+      "headline": "당일출발.후기보증",
+      "views": 318379
+    },
+    {
+      "id": 496511895,
+      "cat": "best",
+      "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
+      "price": 18900,
+      "orig": 38900,
+      "dc": 51,
       "score": 4.6,
-      "reviews": 8657,
-      "rank": 60,
-      "bestRank": 166,
+      "reviews": 1556,
+      "rank": 46,
+      "bestRank": 129,
       "soldOut": false,
-      "endAt": "2026-10-28T23:59:59+09:00",
+      "endAt": "2026-10-23T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/1kEqfFEx",
-      "img": "https://shopping.toss.im/live/temp/2026-09-09/fa233394-2b3e-411b-950f-ee1236fecce2.png",
-      "headline": null
+      "url": "https://toss.shopping/_m/N2mDxATq",
+      "img": "https://shopping.toss.im/live/temp/2026-02-09/f2e5b456-3d79-4109-93ad-e51bbf4a6431.jpeg",
+      "headline": "고기·지방 황금비율",
+      "views": 177190
     },
     {
-      "id": 1591130807,
+      "id": 1723910214,
       "cat": "best",
-      "name": "깔끔 화장품 정리대, 화이트, 25x16x11cm, 1개",
-      "price": 5450,
-      "orig": 13500,
-      "dc": 59,
-      "score": 4.1,
-      "reviews": 4214,
-      "rank": 61,
-      "bestRank": 169,
+      "name": "CJ제일제당 쇠고기 진한다시, 1kg, 1개",
+      "price": 7900,
+      "orig": 14900,
+      "dc": 46,
+      "score": 4.5,
+      "reviews": 957,
+      "rank": 47,
+      "bestRank": 130,
       "soldOut": false,
-      "endAt": "2026-10-22T23:59:59+09:00",
+      "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/x6YiMdzj",
-      "img": "https://shopping.toss.im/live/product/471659/d2d55882-3762-4e43-b15d-45a48642b090.jpeg",
-      "headline": "화장대 혁명템"
+      "url": "https://toss.shopping/_m/NX3dCIbw",
+      "img": "https://shopping.toss.im/live/temp/2026-04-30/ee13890b-6fbb-4866-a305-c565d4f82212.jpeg",
+      "headline": null,
+      "views": 20962
     },
     {
-      "id": 258645439,
+      "id": 636456456,
       "cat": "best",
-      "name": "싹클린 신발 클리너, 100ml, 4개",
-      "price": 5794,
-      "orig": 29900,
-      "dc": 80,
-      "score": 4.2,
-      "reviews": 1681,
-      "rank": 62,
-      "bestRank": 172,
+      "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
+      "price": 6910,
+      "orig": 22000,
+      "dc": 68,
+      "score": 4.5,
+      "reviews": 7405,
+      "rank": 48,
+      "bestRank": 132,
       "soldOut": false,
-      "endAt": "2026-10-30T23:59:59+09:00",
+      "endAt": null,
       "source": "manual",
-      "url": "https://toss.shopping/_m/FThtHK1q",
-      "img": "https://shopping.toss.im/live/temp/2025-01-23/aa8338f0-6ba9-45b8-9909-458cb0b23fb7.jpeg",
-      "headline": "일년치·문지르면끝"
+      "url": "https://toss.shopping/_m/l9WJ2ov8",
+      "img": "https://shopping.toss.im/live/temp/2025-08-20/39df5acb-bd9c-4b91-8f72-20358ca0f52d.jpeg",
+      "headline": null,
+      "views": 100575
+    },
+    {
+      "id": 1313098481,
+      "cat": "best",
+      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+      "price": 12900,
+      "orig": 19900,
+      "dc": 35,
+      "score": 4.7,
+      "reviews": 3762,
+      "rank": 49,
+      "bestRank": 135,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/Bic0lMAd",
+      "img": "https://shopping.toss.im/b3560c43-b2e0-453b-af62-ce4857eb9936.jpg",
+      "headline": null,
+      "views": 37698
+    },
+    {
+      "id": 1943259154,
+      "cat": "best",
+      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "price": 9400,
+      "orig": 15900,
+      "dc": 40,
+      "score": 4.5,
+      "reviews": 2782,
+      "rank": 50,
+      "bestRank": 136,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/nSsJ3tJ",
+      "img": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
+      "headline": "1등급 한돈",
+      "views": 41558
+    },
+    {
+      "id": 834933550,
+      "cat": "best",
+      "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "price": 12900,
+      "orig": 54000,
+      "dc": 76,
+      "score": 4.7,
+      "reviews": 1139,
+      "rank": 51,
+      "bestRank": 138,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/zG3rTcOu",
+      "img": "https://shopping.toss.im/live/temp/2026-06-10/1ceb45c9-affc-4555-a369-0858a9067b6a.png",
+      "headline": "시원하게 프레쉬",
+      "views": 37655
+    },
+    {
+      "id": 804948362,
+      "cat": "best",
+      "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
+      "price": 15400,
+      "orig": 26900,
+      "dc": 42,
+      "score": 4.8,
+      "reviews": 3005,
+      "rank": 52,
+      "bestRank": 141,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/rg2VimHa",
+      "img": "https://shopping.toss.im/live/temp/2025-07-22/5d67a412-cb20-4b08-a5ea-4b23e8613dd0.jpeg",
+      "headline": "BEST조합 특가",
+      "views": 22997
+    },
+    {
+      "id": 1815201896,
+      "cat": "best",
+      "name": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
+      "price": 12900,
+      "orig": 25900,
+      "dc": 50,
+      "score": 4.4,
+      "reviews": 5662,
+      "rank": 53,
+      "bestRank": 143,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/JOCy7Flw",
+      "img": "https://shopping.toss.im/live/temp/2025-07-01/53894864-64c1-4f39-8f50-acb4ab605615.jpeg",
+      "headline": "간편한 식사대용",
+      "views": 112148
+    },
+    {
+      "id": 1452915195,
+      "cat": "best",
+      "name": "아임에코 가벼운샘 생수, 1L, 12개",
+      "price": 3900,
+      "orig": 7000,
+      "dc": 44,
+      "score": 4.7,
+      "reviews": 516,
+      "rank": 54,
+      "bestRank": 145,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/TxqIkH0g",
+      "img": "https://shopping.toss.im/live/temp/2026-08-06/3b268136-a3b6-4290-a446-8d4865f0b095.png",
+      "headline": null,
+      "views": 15623
     },
     {
       "id": 676543646,
@@ -1127,33 +1037,206 @@
       "orig": 21400,
       "dc": 42,
       "score": 4.2,
-      "reviews": 910,
-      "rank": 63,
-      "bestRank": 184,
+      "reviews": 928,
+      "rank": 55,
+      "bestRank": 146,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/J1lzYwjn",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/eedd5246-1fd2-47e8-8af5-d77b5e45c17e.png",
-      "headline": "산지직송"
+      "headline": "산지직송",
+      "views": 452465
     },
     {
-      "id": 1953758185,
+      "id": 168195024,
       "cat": "best",
-      "name": "호주산 오렌지, 특과, 4kg, 19-21과, 1개",
-      "price": 10900,
-      "orig": 18000,
-      "dc": 39,
-      "score": 4.4,
-      "reviews": 1373,
-      "rank": 64,
-      "bestRank": 185,
+      "name": "애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
+      "price": 12490,
+      "orig": 18900,
+      "dc": 33,
+      "score": 4.7,
+      "reviews": 1969,
+      "rank": 56,
+      "bestRank": 151,
       "soldOut": false,
-      "endAt": "2026-10-20T23:59:59+09:00",
+      "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
-      "url": "https://toss.shopping/_m/ppo65ewC",
-      "img": "https://shopping.toss.im/live/temp/2026-08-27/b98cc0e0-b0a4-48c4-b4dd-a0bdeecec2ce.jpeg",
-      "headline": "고객감사 특가"
+      "url": "https://toss.shopping/_m/h56NYoLt",
+      "img": "https://shopping.toss.im/live/temp/2026-06-12/56228d17-abfb-4fad-9038-e7d13761df9f.jpeg",
+      "headline": "아이들추천",
+      "views": 108432
+    },
+    {
+      "id": 1270225939,
+      "cat": "best",
+      "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
+      "price": 13900,
+      "orig": 58000,
+      "dc": 76,
+      "score": 4.7,
+      "reviews": 1838,
+      "rank": 57,
+      "bestRank": 155,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/DIyL8xDy",
+      "img": "https://shopping.toss.im/live/temp/2026-07-03/091cdfc9-09c9-4aad-8a13-558b47abcd57.jpeg",
+      "headline": null,
+      "views": 72641
+    },
+    {
+      "id": 997602317,
+      "cat": "best",
+      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "price": 8410,
+      "orig": 75000,
+      "dc": 88,
+      "score": 4.3,
+      "reviews": 274,
+      "rank": 58,
+      "bestRank": 157,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/FfLVmEaC",
+      "img": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
+      "headline": "아스파시아",
+      "views": 34983
+    },
+    {
+      "id": 782213114,
+      "cat": "best",
+      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
+      "price": 8900,
+      "orig": 39600,
+      "dc": 77,
+      "score": 4.6,
+      "reviews": 8701,
+      "rank": 59,
+      "bestRank": 164,
+      "soldOut": false,
+      "endAt": "2026-10-28T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/1kEqfFEx",
+      "img": "https://shopping.toss.im/live/temp/2026-09-09/fa233394-2b3e-411b-950f-ee1236fecce2.png",
+      "headline": null,
+      "views": 293174
+    },
+    {
+      "id": 258645439,
+      "cat": "best",
+      "name": "싹클린 신발 클리너, 100ml, 4개",
+      "price": 5794,
+      "orig": 29900,
+      "dc": 80,
+      "score": 4.2,
+      "reviews": 1692,
+      "rank": 60,
+      "bestRank": 166,
+      "soldOut": false,
+      "endAt": "2026-10-30T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/FThtHK1q",
+      "img": "https://shopping.toss.im/live/temp/2025-01-23/aa8338f0-6ba9-45b8-9909-458cb0b23fb7.jpeg",
+      "headline": "일년치·문지르면끝",
+      "views": 65486
+    },
+    {
+      "id": 1238597071,
+      "cat": "best",
+      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+      "price": 13760,
+      "orig": 35000,
+      "dc": 60,
+      "score": 4.7,
+      "reviews": 5905,
+      "rank": 61,
+      "bestRank": 169,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/1B58BFIz",
+      "img": "https://shopping.toss.im/live/temp/2026-08-12/8f4de164-2803-4870-8e13-530c511dab7d.jpeg",
+      "headline": "0.26 초저산도",
+      "views": 94464
+    },
+    {
+      "id": 447254680,
+      "cat": "best",
+      "name": "란센 휴대용 구강 세정기, HL18650, 화이트, 1개",
+      "price": 9500,
+      "orig": 99000,
+      "dc": 90,
+      "score": 4.3,
+      "reviews": 1783,
+      "rank": 62,
+      "bestRank": 174,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/L9Hfcdsi",
+      "img": "https://shopping.toss.im/live/temp/2026-05-15/c7118915-c9a7-4999-b55f-da0297919df1.jpeg",
+      "headline": "4가지팁 증정",
+      "views": 54761
+    },
+    {
+      "id": 2081209125,
+      "cat": "best",
+      "name": "깨끗한나라 아껴쓰는 키친타월, 140매, 8롤, 1팩",
+      "price": 6370,
+      "orig": 14900,
+      "dc": 57,
+      "score": 4.6,
+      "reviews": 725,
+      "rank": 63,
+      "bestRank": 176,
+      "soldOut": false,
+      "endAt": "2026-10-31T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/5vY6oOwo",
+      "img": "https://shopping.toss.im/live/temp/2025-10-21/504cb0ea-f284-42aa-bb7a-7960b9c0f56d.jpeg",
+      "headline": null,
+      "views": 22788
+    },
+    {
+      "id": 1913703515,
+      "cat": "best",
+      "name": "설수련 진 한방 농축 3종세트, 본품3+휴대용2, 1세트",
+      "price": 13900,
+      "orig": 99000,
+      "dc": 85,
+      "score": 4.3,
+      "reviews": 548,
+      "rank": 64,
+      "bestRank": 177,
+      "soldOut": false,
+      "endAt": "2026-10-11T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/jOMgj1y9",
+      "img": "https://shopping.toss.im/live/temp/2026-07-01/d9c7fe67-d3fb-471e-944b-069e7e34a825.jpeg",
+      "headline": "설수련",
+      "views": 46034
+    },
+    {
+      "id": 390508526,
+      "cat": "best",
+      "name": "드리온 PD25W GaN PPS C타입 2포트 초고속 충전기, 버터옐로, CtoC 케이블 포함, 1개",
+      "price": 5900,
+      "orig": 7100,
+      "dc": 16,
+      "score": 4.8,
+      "reviews": 144,
+      "rank": 65,
+      "bestRank": 178,
+      "soldOut": false,
+      "endAt": null,
+      "source": "manual",
+      "url": "https://toss.shopping/_m/r0qUHzTk",
+      "img": "https://shopping.toss.im/live/temp/2026-03-26/4c84bf84-9d97-40c6-8b1e-ffd0699b1683.jpeg",
+      "headline": null,
+      "views": 15335
     },
     {
       "id": 2083933630,
@@ -1164,14 +1247,15 @@
       "dc": 42,
       "score": 4.5,
       "reviews": 435,
-      "rank": 65,
-      "bestRank": 186,
+      "rank": 66,
+      "bestRank": 180,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/ZE2TY74w",
       "img": "https://shopping.toss.im/live/temp/2026-06-18/d3436e25-1f40-451f-b583-002ed77e074c.jpeg",
-      "headline": "고종국장인"
+      "headline": "고종국장인",
+      "views": 15490
     },
     {
       "id": 911450998,
@@ -1181,7 +1265,7 @@
       "orig": 16900,
       "dc": 59,
       "score": 4.3,
-      "reviews": 1243,
+      "reviews": 1245,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -1189,7 +1273,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/l1JRqLCz",
       "img": "https://shopping.toss.im/live/product/1803704/1a0e87e1-8b01-4439-9a5e-c615605a7bf4.jpeg",
-      "headline": "재구매 폭주"
+      "headline": "재구매 폭주",
+      "views": 25025
     },
     {
       "id": 902893337,
@@ -1207,7 +1292,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/5qKiJKlh",
       "img": "https://shopping.toss.im/live/temp/2026-08-31/ae73c442-36b1-4192-abee-cc4d17acb980.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 18254
     },
     {
       "id": 760227486,
@@ -1217,7 +1303,7 @@
       "orig": 20900,
       "dc": 19,
       "score": 4.3,
-      "reviews": 335,
+      "reviews": 338,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -1225,7 +1311,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/rvAnJ7rD",
       "img": "https://shopping.toss.im/live/temp/2026-02-11/0a0deb9a-09e8-45a6-a23a-607f1280c665.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 20429
     },
     {
       "id": 481261615,
@@ -1235,7 +1322,7 @@
       "orig": 22500,
       "dc": 12,
       "score": 4.7,
-      "reviews": 78,
+      "reviews": 79,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
@@ -1243,7 +1330,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/JN8I50Y6",
       "img": "https://shopping.toss.im/live/temp/2026-08-06/258ab0ae-dbff-484e-8ff0-bbf8911e0ffd.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 5829
     },
     {
       "id": 1341529089,
@@ -1261,7 +1349,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/DSiKszoe",
       "img": "https://shopping.toss.im/live/temp/2025-07-03/b0ece6bc-5a01-4ce4-82c6-e43102e9d51d.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 2028
     },
     {
       "id": 2099677109,
@@ -1279,7 +1368,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/fPkQKj5q",
       "img": "https://shopping.toss.im/live/product/1303533/a788422a-ce84-4367-b7eb-4052c4150e8b.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 6823
     },
     {
       "id": 598154955,
@@ -1297,7 +1387,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/nfvDWZd2",
       "img": "https://shopping.toss.im/live/product/491759/83972948-534b-4bfb-93a3-043cd3fb8ce4.jpg",
-      "headline": "국내산 아귀"
+      "headline": "국내산 아귀",
+      "views": 8149
     },
     {
       "id": 1939575228,
@@ -1315,7 +1406,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LVCIkWO4",
       "img": "https://shopping.toss.im/live/temp/2025-05-22/7a351a9f-00b5-4ad2-a5cb-8529344a2d5b.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 2864
     },
     {
       "id": 1977812111,
@@ -1333,7 +1425,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/RNNZShc8",
       "img": "https://shopping.toss.im/live/temp/2026-06-29/ea1cd943-4d59-4f87-84c8-c3fda89f144d.jpeg",
-      "headline": "간절기몸보신특가"
+      "headline": "간절기몸보신특가",
+      "views": 2002
     },
     {
       "id": 944362395,
@@ -1351,7 +1444,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/nvNKcyjc",
       "img": "https://shopping.toss.im/live/temp/2025-05-29/c39fd387-9bae-4412-8f44-3c2eff50c6e5.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 253
     },
     {
       "id": 1238415375,
@@ -1369,7 +1463,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/VHVzGPzj",
       "img": "https://shopping.toss.im/live/temp/2025-02-26/a0d098c9-9664-485f-9d28-3f6a3bb52959.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 707
     },
     {
       "id": 2028754490,
@@ -1379,7 +1474,7 @@
       "orig": 16830,
       "dc": 11,
       "score": 4.8,
-      "reviews": 2535,
+      "reviews": 2538,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -1387,7 +1482,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/JfCXCbl8",
       "img": "https://shopping.toss.im/live/temp/2026-04-15/66421dcc-a003-4c01-9234-92c5a7f56b23.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 50199
     },
     {
       "id": 2106513498,
@@ -1397,7 +1493,7 @@
       "orig": 15070,
       "dc": 14,
       "score": 4.8,
-      "reviews": 2990,
+      "reviews": 3007,
       "rank": 2,
       "bestRank": null,
       "soldOut": false,
@@ -1405,7 +1501,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/d8RXdlad",
       "img": "https://shopping.toss.im/live/temp/2026-06-01/36952a3e-393c-4115-9a75-b7af8c6d82dc.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 38502
     },
     {
       "id": 1975058567,
@@ -1415,7 +1512,7 @@
       "orig": 23400,
       "dc": 40,
       "score": 4.7,
-      "reviews": 55,
+      "reviews": 56,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -1423,7 +1520,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LMmDbwDd",
       "img": "https://shopping.toss.im/live/product/42317133/9f0ed1c3-583c-4b50-b8d4-d1a27de971b8.jpeg",
-      "headline": "특제짜장 6인분세트"
+      "headline": "특제짜장 6인분세트",
+      "views": 1593
     },
     {
       "id": 1661945335,
@@ -1433,7 +1531,7 @@
       "orig": 22110,
       "dc": 19,
       "score": 4.8,
-      "reviews": 896,
+      "reviews": 897,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
@@ -1441,7 +1539,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/3yjcJ6Aj",
       "img": "https://shopping.toss.im/live/temp/2026-04-03/e4b71444-7c17-4a35-84ce-1218e8cd6e08.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 6332
     },
     {
       "id": 319449027,
@@ -1451,7 +1550,7 @@
       "orig": 31800,
       "dc": 22,
       "score": 4.8,
-      "reviews": 1370,
+      "reviews": 1371,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -1459,7 +1558,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/fZFhnM6l",
       "img": "https://shopping.toss.im/live/temp/2025-05-21/8f71f8b1-3302-4384-9ba6-b67c18b67f5f.jpeg",
-      "headline": "진하고 얼큰한 국물"
+      "headline": "진하고 얼큰한 국물",
+      "views": 2854
     },
     {
       "id": 1013047898,
@@ -1469,7 +1569,7 @@
       "orig": 30800,
       "dc": 22,
       "score": 4.9,
-      "reviews": 161,
+      "reviews": 162,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -1477,7 +1577,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HdLtWY4m",
       "img": "https://shopping.toss.im/live/temp/2026-07-08/a8155bfe-78b2-4114-9fdc-bdf5a8e14844.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 7060
     },
     {
       "id": 818435765,
@@ -1495,7 +1596,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/X8T3qknr",
       "img": "https://shopping.toss.im/live/temp/2026-08-26/33c2a0b4-4ca5-4436-a98a-2b8ed57af313.jpeg",
-      "headline": "자취생을 위한"
+      "headline": "자취생을 위한",
+      "views": 4593
     },
     {
       "id": 701292405,
@@ -1513,7 +1615,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/tf7XLFGp",
       "img": "https://shopping.toss.im/live/temp/2026-03-17/749f118e-c685-4889-8980-be6a2e8efca8.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 5766
     },
     {
       "id": 52216814,
@@ -1523,7 +1626,7 @@
       "orig": 21230,
       "dc": 15,
       "score": 4.8,
-      "reviews": 699,
+      "reviews": 700,
       "rank": 9,
       "bestRank": null,
       "soldOut": false,
@@ -1531,7 +1634,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/rXA1iTdn",
       "img": "https://shopping.toss.im/live/temp/2026-04-03/92005b64-7318-48c5-9170-a37c0e92f4dd.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 2704
     },
     {
       "id": 692294272,
@@ -1549,7 +1653,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/X0e5uS8w",
       "img": "https://shopping.toss.im/live/temp/2026-03-28/05c0e8a4-f411-49b1-9ce3-d1eb05a16231.jpeg",
-      "headline": "TS117"
+      "headline": "TS117",
+      "views": 3730
     },
     {
       "id": 773401773,
@@ -1567,7 +1672,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Jk5jvcYq",
       "img": "https://shopping.toss.im/live/temp/2026-04-28/82890cc0-476a-4888-aa8d-9086f3b72199.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 6837
     },
     {
       "id": 1635334996,
@@ -1577,7 +1683,7 @@
       "orig": 17800,
       "dc": 50,
       "score": 4.8,
-      "reviews": 11559,
+      "reviews": 11628,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -1585,7 +1691,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/hk0TPiBj",
       "img": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-      "headline": "당일출발.후기보증"
+      "headline": "당일출발.후기보증",
+      "views": 318379
     },
     {
       "id": 406772285,
@@ -1595,7 +1702,7 @@
       "orig": 19500,
       "dc": 13,
       "score": 4.8,
-      "reviews": 3084,
+      "reviews": 3103,
       "rank": 2,
       "bestRank": null,
       "soldOut": false,
@@ -1603,7 +1710,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/NV5yfM5m",
       "img": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 308825
     },
     {
       "id": 1270605554,
@@ -1613,7 +1721,7 @@
       "orig": 27890,
       "dc": 58,
       "score": 4.9,
-      "reviews": 930,
+      "reviews": 932,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -1621,7 +1729,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/bH9J6fwo",
       "img": "https://shopping.toss.im/live/product/25263607/5afc0399-59a8-4162-8f1f-9d9b5bfcd6fd.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 103988
     },
     {
       "id": 642325277,
@@ -1639,7 +1748,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/RF0iuQ7q",
       "img": "https://shopping.toss.im/live/temp/2026-10-02/946fc86d-9f98-4dde-93fc-d9bea3f8a4c0.jpeg",
-      "headline": "대용량 가성비"
+      "headline": "대용량 가성비",
+      "views": 3291
     },
     {
       "id": 660587496,
@@ -1649,7 +1759,7 @@
       "orig": 17900,
       "dc": 58,
       "score": 4.5,
-      "reviews": 2378,
+      "reviews": 2399,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -1657,7 +1767,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/X6HiRO2A",
       "img": "https://shopping.toss.im/live/temp/2026-03-10/1457fa33-30ea-4e62-97c5-26f221b20a39.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 46236
     },
     {
       "id": 820919209,
@@ -1667,7 +1778,7 @@
       "orig": 16600,
       "dc": 64,
       "score": 4.8,
-      "reviews": 326,
+      "reviews": 365,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -1675,7 +1786,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/14g0kabw",
       "img": "https://shopping.toss.im/live/temp/2026-09-11/520e07ab-3a43-4bc4-ad06-f6922cbf88c0.png",
-      "headline": null
+      "headline": null,
+      "views": 34905
     },
     {
       "id": 1502369206,
@@ -1685,7 +1797,7 @@
       "orig": 12900,
       "dc": 24,
       "score": 4.7,
-      "reviews": 4461,
+      "reviews": 4467,
       "rank": 7,
       "bestRank": null,
       "soldOut": false,
@@ -1693,7 +1805,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Ftqs39vy",
       "img": "https://shopping.toss.im/live/temp/2025-07-07/c614e645-177a-41a9-895b-ebbc16750b87.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 41976
     },
     {
       "id": 747243361,
@@ -1703,7 +1816,7 @@
       "orig": 16400,
       "dc": null,
       "score": 4.8,
-      "reviews": 633,
+      "reviews": 634,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
@@ -1711,7 +1824,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LxeemEyC",
       "img": "https://shopping.toss.im/fa703cd0-9f25-4df7-a21d-04d55c368109.jpg",
-      "headline": null
+      "headline": null,
+      "views": 15077
     },
     {
       "id": 1263223581,
@@ -1721,7 +1835,7 @@
       "orig": 21000,
       "dc": 50,
       "score": 4.7,
-      "reviews": 706,
+      "reviews": 707,
       "rank": 9,
       "bestRank": null,
       "soldOut": false,
@@ -1729,7 +1843,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/RidwI022",
       "img": "https://shopping.toss.im/live/temp/2026-07-07/5430961b-8a81-4071-87f8-701ad012bcd2.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 19805
     },
     {
       "id": 1117202525,
@@ -1747,7 +1862,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/pI0gGc1h",
       "img": "https://shopping.toss.im/live/temp/2026-07-27/cc9a864c-18bd-4f9b-9087-da5a46e42f05.jpeg",
-      "headline": "품절대란 비스킷"
+      "headline": "품절대란 비스킷",
+      "views": 30766
     },
     {
       "id": 73324983,
@@ -1757,7 +1873,7 @@
       "orig": 17000,
       "dc": 24,
       "score": 4.7,
-      "reviews": 4156,
+      "reviews": 4158,
       "rank": 11,
       "bestRank": null,
       "soldOut": false,
@@ -1765,7 +1881,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/vVcJ7dx9",
       "img": "https://shopping.toss.im/live/temp/2026-08-04/0a6c54e8-fe18-4371-9f9a-3ef7dea4c88a.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 24370
     },
     {
       "id": 68006961,
@@ -1775,7 +1892,7 @@
       "orig": 15300,
       "dc": 22,
       "score": 4.6,
-      "reviews": 685,
+      "reviews": 691,
       "rank": 12,
       "bestRank": null,
       "soldOut": false,
@@ -1783,7 +1900,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LRLujfLp",
       "img": "https://shopping.toss.im/live/temp/2025-08-06/131f6243-bca5-4166-b740-616c3eaf0e10.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 30910
     },
     {
       "id": 2005785512,
@@ -1801,7 +1919,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/PKlBaoAt",
       "img": "https://shopping.toss.im/live/temp/2026-03-04/6479d57d-6a36-4301-9265-930d770b8cce.jpeg",
-      "headline": "두바이 쫀뜩 마카롱"
+      "headline": "두바이 쫀뜩 마카롱",
+      "views": 10967
     },
     {
       "id": 802520742,
@@ -1819,7 +1938,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/zaFTrr5w",
       "img": "https://shopping.toss.im/live/temp/2026-05-14/23e4f5ba-dbd6-464d-ac56-9e552a66e9c2.png",
-      "headline": "추억의 맛"
+      "headline": "추억의 맛",
+      "views": 7608
     },
     {
       "id": 1850473852,
@@ -1837,7 +1957,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/BrsiFp8x",
       "img": "https://shopping.toss.im/live/product/229919/c538b7e3-86cc-4e78-aa02-0d6ccbd93f57.jpg",
-      "headline": null
+      "headline": null,
+      "views": 14630
     },
     {
       "id": 648655840,
@@ -1855,7 +1976,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/BFRf6IWp",
       "img": "https://shopping.toss.im/live/temp/2026-04-06/33b2ee43-586e-4cfe-95d9-6dff839175c7.png",
-      "headline": "인기세트"
+      "headline": "인기세트",
+      "views": 20667
     },
     {
       "id": 659993029,
@@ -1873,7 +1995,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/t4ToYSvn",
       "img": "https://shopping.toss.im/live/temp/2025-10-20/65fcf951-dfbb-4cfd-9699-e13758ffe632.jpeg",
-      "headline": "산과들에"
+      "headline": "산과들에",
+      "views": 19068
     },
     {
       "id": 806431362,
@@ -1883,7 +2006,7 @@
       "orig": 20000,
       "dc": 45,
       "score": 4.5,
-      "reviews": 998,
+      "reviews": 1000,
       "rank": 18,
       "bestRank": null,
       "soldOut": false,
@@ -1891,7 +2014,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/lnOYfg0A",
       "img": "https://shopping.toss.im/057/live/product/627869317/05705d51-1437-4c41-952b-277454802f31.jpg",
-      "headline": null
+      "headline": null,
+      "views": 16825
     },
     {
       "id": 372683557,
@@ -1901,7 +2025,7 @@
       "orig": 12300,
       "dc": 12,
       "score": 4.6,
-      "reviews": 173,
+      "reviews": 178,
       "rank": 19,
       "bestRank": null,
       "soldOut": false,
@@ -1909,7 +2033,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/tmcW05SD",
       "img": "https://shopping.toss.im/live/temp/2026-04-27/df006f44-2b3c-4675-b784-ace4e0f7f9c8.jpeg",
-      "headline": "크라운 인기스낵"
+      "headline": "크라운 인기스낵",
+      "views": 12465
     },
     {
       "id": 751178704,
@@ -1919,7 +2044,7 @@
       "orig": 64200,
       "dc": 64,
       "score": 4.7,
-      "reviews": 457,
+      "reviews": 459,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -1927,7 +2052,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/5I2MixAs",
       "img": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 24562
     },
     {
       "id": 1832299348,
@@ -1945,7 +2071,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/njk8n5mx",
       "img": "https://shopping.toss.im/live/temp/2026-05-30/c6fa225c-9a24-4a13-b7ad-431b5102c036.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 23725
     },
     {
       "id": 893044976,
@@ -1955,7 +2082,7 @@
       "orig": 12900,
       "dc": 51,
       "score": 4.7,
-      "reviews": 4303,
+      "reviews": 4324,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -1963,7 +2090,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/j1mB5a5A",
       "img": "https://shopping.toss.im/live/temp/2026-09-04/32f7cf27-c736-4acc-9c0d-552e882e6102.jpeg",
-      "headline": "후기가 증명"
+      "headline": "후기가 증명",
+      "views": 203647
     },
     {
       "id": 690220620,
@@ -1973,7 +2101,7 @@
       "orig": 50000,
       "dc": 39,
       "score": 4.7,
-      "reviews": 923,
+      "reviews": 926,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
@@ -1981,7 +2109,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/l4TfjeLD",
       "img": "https://shopping.toss.im/live/temp/2026-05-15/211d82da-3204-449d-a28a-db955074f798.png",
-      "headline": null
+      "headline": null,
+      "views": 12509
     },
     {
       "id": 1730395621,
@@ -1991,7 +2120,7 @@
       "orig": 45000,
       "dc": 33,
       "score": 4.7,
-      "reviews": 886,
+      "reviews": 888,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -1999,7 +2128,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/51h86Qn3",
       "img": "https://shopping.toss.im/live/temp/2026-01-19/de59f15d-a7d3-4ce5-91ac-d0b76a0efe6e.jpeg",
-      "headline": "공식판매처"
+      "headline": "공식판매처",
+      "views": 20952
     },
     {
       "id": 116293500,
@@ -2009,7 +2139,7 @@
       "orig": 33500,
       "dc": 22,
       "score": 4.7,
-      "reviews": 455,
+      "reviews": 456,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -2017,7 +2147,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/VaF8N5p7",
       "img": "https://shopping.toss.im/live/temp/2026-04-27/f50f85f1-6ead-4e35-9e28-4631e5dabad4.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 8892
     },
     {
       "id": 563294907,
@@ -2035,7 +2166,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/L55lNR2c",
       "img": "https://shopping.toss.im/live/temp/2026-03-24/c1c89706-7266-4ec2-adb1-96b03785fa4b.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 17352
     },
     {
       "id": 2137241360,
@@ -2045,7 +2177,7 @@
       "orig": 21800,
       "dc": 27,
       "score": 4.7,
-      "reviews": 5151,
+      "reviews": 5154,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
@@ -2053,7 +2185,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/jfq3wITe",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/dd688928-94bb-4659-8a21-970a15bd6e77.png",
-      "headline": null
+      "headline": null,
+      "views": 9563
     },
     {
       "id": 1450024536,
@@ -2071,7 +2204,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/B2RIKvBd",
       "img": "https://shopping.toss.im/live/temp/2025-06-13/8b21321a-3d17-4028-9fb6-69a1b5b91660.jpeg",
-      "headline": "추가증정"
+      "headline": "추가증정",
+      "views": 8475
     },
     {
       "id": 644469097,
@@ -2089,7 +2223,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/XBTrllom",
       "img": "https://shopping.toss.im/live/temp/2026-04-05/73b98fd8-b2c4-4b7e-bed3-6e7dbdc94e1f.png",
-      "headline": null
+      "headline": null,
+      "views": 4258
     },
     {
       "id": 1423412669,
@@ -2107,7 +2242,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/3NZxJGMp",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/e7048799-0dc0-4df5-980c-666d3d1aabdc.jpeg",
-      "headline": "BEST/인기 조합"
+      "headline": "BEST/인기 조합",
+      "views": 14295
     },
     {
       "id": 1258520190,
@@ -2125,7 +2261,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Nc6jLKTt",
       "img": "https://shopping.toss.im/live/temp/2026-03-26/b8ae208a-d192-4631-9f47-c0d8025e7e0b.png",
-      "headline": null
+      "headline": null,
+      "views": 4588
     },
     {
       "id": 2113825339,
@@ -2143,7 +2280,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/nA1J0Dow",
       "img": "https://shopping.toss.im/live/temp/2026-06-22/b0785aa2-1228-438e-acc5-e28fd134d5a2.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 5796
     },
     {
       "id": 1387293817,
@@ -2153,7 +2291,7 @@
       "orig": 30000,
       "dc": 15,
       "score": 4.7,
-      "reviews": 286,
+      "reviews": 287,
       "rank": 14,
       "bestRank": null,
       "soldOut": false,
@@ -2161,7 +2299,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/rzHyA0j3",
       "img": "https://shopping.toss.im/live/temp/2026-03-26/fb7a327b-53f2-483a-ad92-e15efde1a973.png",
-      "headline": null
+      "headline": null,
+      "views": 3746
     },
     {
       "id": 2036431702,
@@ -2179,25 +2318,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/hP1XWdTD",
       "img": "https://shopping.toss.im/live/temp/2026-04-27/75293dde-32d3-489a-a77e-cc23952b1656.jpeg",
-      "headline": null
-    },
-    {
-      "id": 99193548,
-      "cat": "coffee",
-      "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 2개",
-      "price": 49000,
-      "orig": 60000,
-      "dc": 18,
-      "score": 4.7,
-      "reviews": 583,
-      "rank": 16,
-      "bestRank": null,
-      "soldOut": false,
-      "endAt": null,
-      "source": "manual",
-      "url": "https://toss.shopping/_m/deaB9uO5",
-      "img": "https://shopping.toss.im/live/temp/2025-08-26/cc67df22-4148-4bed-ac02-e3fd30dd0a90.png",
-      "headline": null
+      "headline": null,
+      "views": 339
     },
     {
       "id": 818254939,
@@ -2208,14 +2330,15 @@
       "dc": 5,
       "score": 4.7,
       "reviews": 547,
-      "rank": 17,
+      "rank": 16,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-28T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Na4Yvwpc",
       "img": "https://shopping.toss.im/live/temp/2026-07-08/b4b95121-19fc-4c85-a0d1-4609e22b6ce9.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 4549
     },
     {
       "id": 2019916081,
@@ -2226,14 +2349,15 @@
       "dc": 43,
       "score": 4.5,
       "reviews": 330,
-      "rank": 18,
+      "rank": 17,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/1Qo7GEt8",
       "img": "https://shopping.toss.im/live/temp/2025-09-03/59d00677-c98f-4e5b-9bbb-6bc7b8d49954.png",
-      "headline": null
+      "headline": null,
+      "views": 3433
     },
     {
       "id": 1221516600,
@@ -2244,14 +2368,15 @@
       "dc": 29,
       "score": 4.7,
       "reviews": 153,
-      "rank": 19,
+      "rank": 18,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/ZU7hTi6l",
       "img": "https://shopping.toss.im/live/temp/2025-12-28/ec216c4b-7976-4883-bffa-5deb87f1d8c0.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 2447
     },
     {
       "id": 464649208,
@@ -2261,7 +2386,7 @@
       "orig": 59800,
       "dc": 88,
       "score": 4.7,
-      "reviews": 6757,
+      "reviews": 7053,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -2269,7 +2394,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/VTN2Fu6q",
       "img": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-      "headline": null
+      "headline": null,
+      "views": 537317
     },
     {
       "id": 1169130430,
@@ -2279,7 +2405,7 @@
       "orig": 15900,
       "dc": 25,
       "score": 4.7,
-      "reviews": 36231,
+      "reviews": 36270,
       "rank": 2,
       "bestRank": null,
       "soldOut": false,
@@ -2287,7 +2413,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/BM5VJyTt",
       "img": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 334882
     },
     {
       "id": 782213114,
@@ -2297,7 +2424,7 @@
       "orig": 39600,
       "dc": 77,
       "score": 4.6,
-      "reviews": 8657,
+      "reviews": 8701,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -2305,7 +2432,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/1kEqfFEx",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/fa233394-2b3e-411b-950f-ee1236fecce2.png",
-      "headline": null
+      "headline": null,
+      "views": 293174
     },
     {
       "id": 1864828643,
@@ -2315,7 +2443,7 @@
       "orig": 50000,
       "dc": 56,
       "score": 4.7,
-      "reviews": 7551,
+      "reviews": 7566,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
@@ -2323,7 +2451,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/1phSkOTy",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/e493168a-4cca-4b16-9c8e-2afc92a09991.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 256206
     },
     {
       "id": 238427159,
@@ -2333,7 +2462,7 @@
       "orig": 39600,
       "dc": 72,
       "score": 4.6,
-      "reviews": 7212,
+      "reviews": 7284,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -2341,7 +2470,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/3wxGRxTD",
       "img": "https://shopping.toss.im/live/temp/2026-09-13/c5515028-dee6-4397-98ee-41240dbd3a83.png",
-      "headline": null
+      "headline": null,
+      "views": 318555
     },
     {
       "id": 1713811003,
@@ -2351,7 +2481,7 @@
       "orig": 16900,
       "dc": 5,
       "score": 4.8,
-      "reviews": 4280,
+      "reviews": 4298,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -2359,7 +2489,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/xKRpXnZ5",
       "img": "https://shopping.toss.im/live/temp/2026-08-28/2b7cc9f8-09e5-4772-a1c6-b1e37d157bda.jpeg",
-      "headline": "쌀때쟁여요"
+      "headline": "쌀때쟁여요",
+      "views": 168266
     },
     {
       "id": 1264049803,
@@ -2369,7 +2500,7 @@
       "orig": 19900,
       "dc": 5,
       "score": 4.7,
-      "reviews": 25713,
+      "reviews": 25738,
       "rank": 7,
       "bestRank": null,
       "soldOut": false,
@@ -2377,7 +2508,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Xt4Oqno8",
       "img": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 161889
     },
     {
       "id": 916255954,
@@ -2387,7 +2519,7 @@
       "orig": 12900,
       "dc": 27,
       "score": 4.7,
-      "reviews": 4626,
+      "reviews": 4643,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
@@ -2395,7 +2527,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/NpHDhRFd",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/53d6e4d6-42eb-4602-b9cd-509db12cf016.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 115995
     },
     {
       "id": 1628999886,
@@ -2405,7 +2538,7 @@
       "orig": 46900,
       "dc": 76,
       "score": 4.7,
-      "reviews": 2326,
+      "reviews": 2434,
       "rank": 9,
       "bestRank": null,
       "soldOut": false,
@@ -2413,7 +2546,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/ZXqUXdUj",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 141027
     },
     {
       "id": 1705678690,
@@ -2423,7 +2557,7 @@
       "orig": 25900,
       "dc": 36,
       "score": 4.8,
-      "reviews": 2662,
+      "reviews": 2685,
       "rank": 10,
       "bestRank": null,
       "soldOut": false,
@@ -2431,7 +2565,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/py2AI83m",
       "img": "https://shopping.toss.im/live/temp/2025-06-05/f19b42f0-7bc7-4a21-b91b-7089d83de9fd.png",
-      "headline": null
+      "headline": null,
+      "views": 132610
     },
     {
       "id": 237201532,
@@ -2440,8 +2575,8 @@
       "price": 4620,
       "orig": 39600,
       "dc": 88,
-      "score": 4.7,
-      "reviews": 1575,
+      "score": 4.6,
+      "reviews": 1649,
       "rank": 11,
       "bestRank": null,
       "soldOut": false,
@@ -2449,7 +2584,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Vi9adxn2",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/700e7092-4de8-4f4f-9e98-d7e271273554.png",
-      "headline": null
+      "headline": null,
+      "views": 83239
     },
     {
       "id": 931464226,
@@ -2459,7 +2595,7 @@
       "orig": 29900,
       "dc": 63,
       "score": 4.7,
-      "reviews": 2744,
+      "reviews": 2752,
       "rank": 12,
       "bestRank": null,
       "soldOut": false,
@@ -2467,7 +2603,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HQp8D5mr",
       "img": "https://shopping.toss.im/live/temp/2025-06-12/0b12c7e3-ad55-434d-a5de-f5838943c99a.jpeg",
-      "headline": "이중미세모·30개"
+      "headline": "이중미세모·30개",
+      "views": 94519
     },
     {
       "id": 1669648738,
@@ -2477,7 +2614,7 @@
       "orig": 20900,
       "dc": 61,
       "score": 4.6,
-      "reviews": 3950,
+      "reviews": 3951,
       "rank": 13,
       "bestRank": null,
       "soldOut": false,
@@ -2485,7 +2622,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/r2MgOrMy",
       "img": "https://shopping.toss.im/live/temp/2026-04-11/c1e92e1c-86b9-4106-9051-6856b901f232.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 13681
     },
     {
       "id": 1232869922,
@@ -2495,7 +2633,7 @@
       "orig": 14900,
       "dc": 40,
       "score": 4.6,
-      "reviews": 5496,
+      "reviews": 5504,
       "rank": 14,
       "bestRank": null,
       "soldOut": false,
@@ -2503,7 +2641,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/f2qUHE9v",
       "img": "https://shopping.toss.im/live/temp/2026-04-30/346efa4b-0a91-4c9b-836e-49337dfc4eee.jpeg",
-      "headline": "쌀때쟁여요"
+      "headline": "쌀때쟁여요",
+      "views": 94706
     },
     {
       "id": 1191210259,
@@ -2513,7 +2652,7 @@
       "orig": 14800,
       "dc": 63,
       "score": 4.6,
-      "reviews": 3673,
+      "reviews": 3685,
       "rank": 15,
       "bestRank": null,
       "soldOut": false,
@@ -2521,7 +2660,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LED5fEVq",
       "img": "https://shopping.toss.im/live/temp/2025-10-10/570bcfb4-2e22-421c-be55-06690eebea69.jpeg",
-      "headline": "오늘의특가"
+      "headline": "오늘의특가",
+      "views": 137809
     },
     {
       "id": 521881806,
@@ -2539,7 +2679,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HUTj4pTa",
       "img": "https://shopping.toss.im/live/temp/2026-07-01/f0bae479-a8f5-40b1-bcfb-96e9c1a7c675.png",
-      "headline": null
+      "headline": null,
+      "views": 1452
     },
     {
       "id": 417052186,
@@ -2549,7 +2690,7 @@
       "orig": 15900,
       "dc": 30,
       "score": 4.6,
-      "reviews": 3357,
+      "reviews": 3363,
       "rank": 17,
       "bestRank": null,
       "soldOut": false,
@@ -2557,7 +2698,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HGuJ1JFd",
       "img": "https://shopping.toss.im/3ff/live/product/834251053/3ffd2f2a-0e54-4d6f-92ba-79e259e224c4.jpg",
-      "headline": null
+      "headline": null,
+      "views": 62343
     },
     {
       "id": 264935905,
@@ -2567,7 +2709,7 @@
       "orig": 12900,
       "dc": 23,
       "score": 4.6,
-      "reviews": 1107,
+      "reviews": 1134,
       "rank": 18,
       "bestRank": null,
       "soldOut": false,
@@ -2575,7 +2717,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/LCKV74qm",
       "img": "https://shopping.toss.im/live/product/529291/50d3c178-afe9-4848-92a8-eaaaf025f42b.jpg",
-      "headline": null
+      "headline": null,
+      "views": 65013
     },
     {
       "id": 1405000676,
@@ -2585,7 +2728,7 @@
       "orig": 39600,
       "dc": 77,
       "score": 4.6,
-      "reviews": 11535,
+      "reviews": 11548,
       "rank": 19,
       "bestRank": null,
       "soldOut": false,
@@ -2593,7 +2736,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/7rCuZ0oi",
       "img": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
-      "headline": null
+      "headline": null,
+      "views": 92632
     },
     {
       "id": 436644421,
@@ -2603,7 +2747,7 @@
       "orig": 13900,
       "dc": 50,
       "score": 4,
-      "reviews": 12837,
+      "reviews": 12841,
       "rank": 20,
       "bestRank": null,
       "soldOut": false,
@@ -2611,7 +2755,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/rSng4naq",
       "img": "https://shopping.toss.im/live/product/6296085/82d2dc7d-5d80-48fa-9d4c-52596e78cd9f.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 56838
     },
     {
       "id": 1591130807,
@@ -2621,7 +2766,7 @@
       "orig": 13500,
       "dc": 59,
       "score": 4.1,
-      "reviews": 4214,
+      "reviews": 4218,
       "rank": 21,
       "bestRank": null,
       "soldOut": false,
@@ -2629,7 +2774,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/x6YiMdzj",
       "img": "https://shopping.toss.im/live/product/471659/d2d55882-3762-4e43-b15d-45a48642b090.jpeg",
-      "headline": "화장대 혁명템"
+      "headline": "화장대 혁명템",
+      "views": 57660
     },
     {
       "id": 945341613,
@@ -2639,7 +2785,7 @@
       "orig": 18900,
       "dc": 52,
       "score": 4.5,
-      "reviews": 8850,
+      "reviews": 8911,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -2647,7 +2793,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/hAYl5K0v",
       "img": "https://shopping.toss.im/live/temp/2026-03-06/4d9c7749-b71a-4815-9622-50747aeb997a.jpeg",
-      "headline": "2+2 렌지 용기"
+      "headline": "2+2 렌지 용기",
+      "views": 410286
     },
     {
       "id": 1881727121,
@@ -2657,7 +2804,7 @@
       "orig": 25900,
       "dc": 46,
       "score": 4.6,
-      "reviews": 6437,
+      "reviews": 6459,
       "rank": 2,
       "bestRank": null,
       "soldOut": false,
@@ -2665,7 +2812,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/RnoZNGty",
       "img": "https://shopping.toss.im/live/temp/2026-06-30/9fba19a7-a34e-4286-94fa-314014fbe288.png",
-      "headline": null
+      "headline": null,
+      "views": 228224
     },
     {
       "id": 423523813,
@@ -2675,7 +2823,7 @@
       "orig": 28400,
       "dc": 73,
       "score": 4.6,
-      "reviews": 1565,
+      "reviews": 1601,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -2683,7 +2831,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/Tg3VMJB3",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
-      "headline": "7P 구성"
+      "headline": "7P 구성",
+      "views": 137797
     },
     {
       "id": 1954934048,
@@ -2693,7 +2842,7 @@
       "orig": null,
       "dc": null,
       "score": 4.5,
-      "reviews": 2416,
+      "reviews": 2444,
       "rank": 4,
       "bestRank": null,
       "soldOut": false,
@@ -2701,7 +2850,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/DoUHEcg8",
       "img": "https://shopping.toss.im/9a2/live/product/846585429/9a204993-3731-4186-8353-22d252d815af.jpg",
-      "headline": "이지앤프리"
+      "headline": "이지앤프리",
+      "views": 125614
     },
     {
       "id": 648889269,
@@ -2711,7 +2861,7 @@
       "orig": 39000,
       "dc": 91,
       "score": 4.6,
-      "reviews": 906,
+      "reviews": 908,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -2719,7 +2869,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/v79EfAvn",
       "img": "https://shopping.toss.im/live/temp/2025-08-28/59874c41-91da-4f9c-9b78-e1b367f0ab38.jpeg",
-      "headline": "활용도좋은 세트구성"
+      "headline": "활용도좋은 세트구성",
+      "views": 71619
     },
     {
       "id": 228155928,
@@ -2729,7 +2880,7 @@
       "orig": 20400,
       "dc": 78,
       "score": 4.4,
-      "reviews": 7633,
+      "reviews": 7638,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -2737,7 +2888,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/B37q16La",
       "img": "https://shopping.toss.im/live/temp/2025-04-16/0bb47bcd-960b-4ef6-b2e8-8531fa8a2475.jpeg",
-      "headline": "1+1"
+      "headline": "1+1",
+      "views": 60496
     },
     {
       "id": 202796218,
@@ -2755,7 +2907,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/ZFp43Zbg",
       "img": "https://shopping.toss.im/live/temp/2026-07-09/6557b58f-cf22-4446-9e7a-d197e5d19029.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 93939
     },
     {
       "id": 1580266365,
@@ -2765,7 +2918,7 @@
       "orig": 22400,
       "dc": 60,
       "score": 4.6,
-      "reviews": 367,
+      "reviews": 369,
       "rank": 8,
       "bestRank": null,
       "soldOut": false,
@@ -2773,25 +2926,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/VSV6o8hh",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/a4bf15df-91f2-4458-944e-6ce13eadc640.jpeg",
-      "headline": "이지앤프리"
-    },
-    {
-      "id": 1674552550,
-      "cat": "kitchen",
-      "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
-      "price": 16900,
-      "orig": 299000,
-      "dc": 94,
-      "score": 4.5,
-      "reviews": 163,
-      "rank": 9,
-      "bestRank": null,
-      "soldOut": false,
-      "endAt": "2026-10-11T23:59:59+09:00",
-      "source": "manual",
-      "url": "https://toss.shopping/_m/b57AK2h2",
-      "img": "https://shopping.toss.im/live/temp/2026-02-05/cc0d4704-cb01-4c25-a95d-c87bef7f2518.jpeg",
-      "headline": null
+      "headline": "이지앤프리",
+      "views": 51681
     },
     {
       "id": 2034784098,
@@ -2801,15 +2937,16 @@
       "orig": 50000,
       "dc": 70,
       "score": 4.6,
-      "reviews": 288,
-      "rank": 10,
+      "reviews": 289,
+      "rank": 9,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/ngEc5svj",
       "img": "https://shopping.toss.im/live/temp/2026-08-27/8cf1f927-ced8-4553-b09f-495377af7c56.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 28978
     },
     {
       "id": 1099044273,
@@ -2819,15 +2956,16 @@
       "orig": 25900,
       "dc": 63,
       "score": 4.6,
-      "reviews": 328,
-      "rank": 11,
+      "reviews": 329,
+      "rank": 10,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/p43xbLLo",
       "img": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
-      "headline": "마지막 특가"
+      "headline": "마지막 특가",
+      "views": 24211
     },
     {
       "id": 1437323068,
@@ -2837,15 +2975,16 @@
       "orig": 82600,
       "dc": 76,
       "score": 4.6,
-      "reviews": 2948,
-      "rank": 12,
+      "reviews": 2951,
+      "rank": 11,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/pNSMGlKp",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/1817a4b2-c652-4228-9f14-d1916c6014eb.jpeg",
-      "headline": "쉬젤"
+      "headline": "쉬젤",
+      "views": 41626
     },
     {
       "id": 1022186736,
@@ -2856,14 +2995,15 @@
       "dc": 78,
       "score": 4.4,
       "reviews": 941,
-      "rank": 13,
+      "rank": 12,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-17T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/p1E7pgZA",
       "img": "https://shopping.toss.im/live/temp/2026-03-19/b111d2fa-bfa3-4ce5-b41a-acf7971dec08.jpeg",
-      "headline": "인덕션사용가능"
+      "headline": "인덕션사용가능",
+      "views": 33394
     },
     {
       "id": 1816349788,
@@ -2873,15 +3013,16 @@
       "orig": 19800,
       "dc": 50,
       "score": 4.1,
-      "reviews": 497,
-      "rank": 14,
+      "reviews": 498,
+      "rank": 13,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/lMDl8XmC",
       "img": "https://shopping.toss.im/live/temp/2026-08-13/207ab310-4bba-4353-a1eb-640be54753d0.png",
-      "headline": null
+      "headline": null,
+      "views": 25817
     },
     {
       "id": 1980592812,
@@ -2892,14 +3033,15 @@
       "dc": 54,
       "score": 4.6,
       "reviews": 907,
-      "rank": 15,
+      "rank": 14,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
       "source": "manual",
       "url": "https://toss.shopping/_m/v0HCgHg3",
       "img": "https://shopping.toss.im/live/temp/2026-01-13/5136a6c9-d54c-40b1-bf91-375351eac795.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 14625
     },
     {
       "id": 1439886484,
@@ -2909,15 +3051,16 @@
       "orig": 29900,
       "dc": 53,
       "score": 4.4,
-      "reviews": 257,
-      "rank": 16,
+      "reviews": 259,
+      "rank": 15,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-30T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/XD4BRDv4",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 33943
     },
     {
       "id": 730356015,
@@ -2927,15 +3070,16 @@
       "orig": 18900,
       "dc": 81,
       "score": 4.5,
-      "reviews": 4318,
-      "rank": 17,
+      "reviews": 4320,
+      "rank": 16,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
       "source": "manual",
       "url": "https://toss.shopping/_m/Fbmuk3Z1",
       "img": "https://shopping.toss.im/live/product/67011/cf220874-a8d0-475b-a378-8ba69df4c0cb.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 15109
     },
     {
       "id": 683389690,
@@ -2945,7 +3089,7 @@
       "orig": 42800,
       "dc": 23,
       "score": 4.8,
-      "reviews": 949,
+      "reviews": 950,
       "rank": 1,
       "bestRank": null,
       "soldOut": false,
@@ -2953,7 +3097,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/xTno6CLa",
       "img": "https://shopping.toss.im/live/temp/2026-02-23/fb3b6550-df7d-48f1-9f77-15ed60ce9c6f.jpeg",
-      "headline": "토스전용쿠폰/초특가"
+      "headline": "토스전용쿠폰/초특가",
+      "views": 12714
     },
     {
       "id": 1956249413,
@@ -2971,7 +3116,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/hPOUhOWj",
       "img": "https://shopping.toss.im/live/temp/2025-12-01/d7067b43-1463-4349-820e-6732be2aab45.png",
-      "headline": null
+      "headline": null,
+      "views": 492
     },
     {
       "id": 162916716,
@@ -2989,7 +3135,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HNs5YgXl",
       "img": "https://shopping.toss.im/live/temp/2025-05-15/7b72982d-8d4b-427f-b870-a11a537cf669.jpeg",
-      "headline": "유통기한 임박특가"
+      "headline": "유통기한 임박특가",
+      "views": 5251
     },
     {
       "id": 588917885,
@@ -3007,7 +3154,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/R8TjglKp",
       "img": "https://shopping.toss.im/live/temp/2026-08-26/45731cb9-6707-4fc0-ba93-344ff3ca63a5.png",
-      "headline": null
+      "headline": null,
+      "views": 4262
     },
     {
       "id": 191618477,
@@ -3017,7 +3165,7 @@
       "orig": 34000,
       "dc": 61,
       "score": 4.8,
-      "reviews": 217,
+      "reviews": 219,
       "rank": 5,
       "bestRank": null,
       "soldOut": false,
@@ -3025,7 +3173,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/reoSNpQt",
       "img": "https://shopping.toss.im/live/temp/2026-03-25/d7306193-82d5-468f-b4ad-1bdd7659bfe7.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 1363
     },
     {
       "id": 193933094,
@@ -3043,7 +3192,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/tx0gehgw",
       "img": "https://shopping.toss.im/live/temp/2025-05-29/39467ac3-3789-4549-9d27-9218188aa018.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 3696
     },
     {
       "id": 951834233,
@@ -3061,7 +3211,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/56VBNrnC",
       "img": "https://shopping.toss.im/live/temp/2025-07-08/1b5dab77-b896-4263-847e-7681721be021.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 2296
     },
     {
       "id": 897113941,
@@ -3079,7 +3230,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/bh2oK7w4",
       "img": "https://shopping.toss.im/live/temp/2026-03-12/ce319624-767b-43eb-8e90-d6a6013135f1.png",
-      "headline": null
+      "headline": null,
+      "views": 1947
     },
     {
       "id": 170652280,
@@ -3089,7 +3241,7 @@
       "orig": 26000,
       "dc": 26,
       "score": 4.7,
-      "reviews": 119,
+      "reviews": 121,
       "rank": 9,
       "bestRank": null,
       "soldOut": false,
@@ -3097,7 +3249,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/FX41xV26",
       "img": "https://shopping.toss.im/live/temp/2026-05-14/77ece09a-f0e7-45fc-9d18-47bbfbc63af7.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 980
     },
     {
       "id": 1680921701,
@@ -3106,8 +3259,8 @@
       "price": 26900,
       "orig": 29900,
       "dc": 10,
-      "score": 4.7,
-      "reviews": 43,
+      "score": 4.8,
+      "reviews": 44,
       "rank": 10,
       "bestRank": null,
       "soldOut": false,
@@ -3115,7 +3268,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/ZS1I38t9",
       "img": "https://shopping.toss.im/live/temp/2026-02-25/455af772-a698-4762-8e3e-4fd2b96423d7.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 874
     },
     {
       "id": 1369702896,
@@ -3133,7 +3287,8 @@
       "source": "manual",
       "url": "https://toss.shopping/_m/HWJZsShh",
       "img": "https://shopping.toss.im/live/temp/2026-04-02/d90d4ed9-3959-402b-b6b1-28b8b7158cfc.jpeg",
-      "headline": null
+      "headline": null,
+      "views": 723
     }
   ]
 }
