@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-08T02:04:36.798Z",
+  "generatedAt": "2026-10-08T02:08:52.002Z",
   "source": "manual",
   "items": [
     {
@@ -11,7 +11,7 @@
       "orig": 12000,
       "dc": 50,
       "score": 4.8,
-      "reviews": 3544,
+      "reviews": 3545,
       "rank": 1,
       "bestRank": 1,
       "soldOut": false,
@@ -20,7 +20,9 @@
       "url": "https://toss.shopping/_m/3uXqj8Ul",
       "img": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
       "headline": null,
-      "views": 73538
+      "views": 73538,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 464649208,
@@ -39,7 +41,9 @@
       "url": "https://toss.shopping/_m/VTN2Fu6q",
       "img": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
       "headline": null,
-      "views": 583461
+      "views": 583461,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1559147650,
@@ -58,7 +62,9 @@
       "url": "https://toss.shopping/_m/Pll2YED9",
       "img": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
       "headline": null,
-      "views": 231923
+      "views": 231923,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 400547225,
@@ -77,7 +83,9 @@
       "url": "https://toss.shopping/_m/BRybxUy4",
       "img": "https://shopping.toss.im/live/temp/2025-04-14/4712e287-d2a8-4018-945b-432d63b9f5b2.jpeg",
       "headline": "온가족 밥도둑",
-      "views": 380295
+      "views": 380295,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 555412180,
@@ -96,7 +104,9 @@
       "url": "https://toss.shopping/_m/tPdg1Vnn",
       "img": "https://shopping.toss.im/live/temp/2025-12-04/38ecc5f8-a916-4a22-9cf0-dafd381e1a85.jpeg",
       "headline": null,
-      "views": 30576
+      "views": 31680,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1877867440,
@@ -115,7 +125,9 @@
       "url": "https://toss.shopping/_m/VmH441po",
       "img": "https://shopping.toss.im/live/temp/2026-09-01/27d37ddd-d724-4865-84ca-a6a285d9c866.jpeg",
       "headline": "믿고 마실 수 있는",
-      "views": 5120
+      "views": 5120,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1943259154,
@@ -134,7 +146,9 @@
       "url": "https://toss.shopping/_m/nSsJ3tJ",
       "img": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
       "headline": "1등급 한돈",
-      "views": 43780
+      "views": 41558,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 663272792,
@@ -153,7 +167,9 @@
       "url": "https://toss.shopping/_m/FZsrWbjC",
       "img": "https://shopping.toss.im/live/temp/2025-12-11/e53d635d-ea64-4660-8af2-ae5e395ee09b.png",
       "headline": "특가",
-      "views": 106637
+      "views": 106637,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 805640351,
@@ -172,7 +188,9 @@
       "url": "https://toss.shopping/_m/1leOKhTq",
       "img": "https://shopping.toss.im/live/temp/2026-02-13/a87f587f-c7cc-47ba-9e61-9895fcf8659f.jpeg",
       "headline": null,
-      "views": 10547
+      "views": 10092,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 346956175,
@@ -191,7 +209,9 @@
       "url": "https://toss.shopping/_m/beWCO9ot",
       "img": "https://shopping.toss.im/live/product/5463407/cfca548f-b2a5-408a-aae3-0e074676375e.jpeg",
       "headline": "다용도 활용가능",
-      "views": 34323
+      "views": 34323,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1939575228,
@@ -210,7 +230,9 @@
       "url": "https://toss.shopping/_m/LVCIkWO4",
       "img": "https://shopping.toss.im/live/temp/2025-05-22/7a351a9f-00b5-4ad2-a5cb-8529344a2d5b.jpeg",
       "headline": null,
-      "views": 3641
+      "views": 3641,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1622818279,
@@ -229,7 +251,9 @@
       "url": "https://toss.shopping/_m/fADxJD4B",
       "img": "https://shopping.toss.im/live/temp/2026-07-15/c7ad31ad-2d18-4744-89f8-586840d18d9b.jpeg",
       "headline": null,
-      "views": 113963
+      "views": 113963,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 622899315,
@@ -248,7 +272,9 @@
       "url": "https://toss.shopping/_m/3h30b1Gj",
       "img": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
       "headline": "압도적 재구매율",
-      "views": 97974
+      "views": 97974,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 33786611,
@@ -258,7 +284,7 @@
       "orig": 29900,
       "dc": 80,
       "score": 4.6,
-      "reviews": 1991,
+      "reviews": 1993,
       "rank": 14,
       "bestRank": 16,
       "soldOut": false,
@@ -267,7 +293,9 @@
       "url": "https://toss.shopping/_m/VF8pk38B",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
       "headline": null,
-      "views": 189056
+      "views": 189056,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 447254680,
@@ -286,7 +314,9 @@
       "url": "https://toss.shopping/_m/L9Hfcdsi",
       "img": "https://shopping.toss.im/live/temp/2026-05-15/c7118915-c9a7-4999-b55f-da0297919df1.jpeg",
       "headline": "4가지팁 증정",
-      "views": 56915
+      "views": 56915,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 2100521017,
@@ -305,7 +335,9 @@
       "url": "https://toss.shopping/_m/n2Tj6ivD",
       "img": "https://shopping.toss.im/live/temp/2025-09-16/0060421b-28d6-40d4-9b0a-9bff30359cab.jpeg",
       "headline": "바삭하고 촉촉한",
-      "views": 44631
+      "views": 44631,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 2030798610,
@@ -315,7 +347,7 @@
       "orig": 31900,
       "dc": 78,
       "score": 4.5,
-      "reviews": 6790,
+      "reviews": 6791,
       "rank": 17,
       "bestRank": 19,
       "soldOut": false,
@@ -324,7 +356,9 @@
       "url": "https://toss.shopping/_m/HGTksQ3h",
       "img": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
       "headline": "초대용량",
-      "views": 286043
+      "views": 286043,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 648889269,
@@ -343,7 +377,9 @@
       "url": "https://toss.shopping/_m/v79EfAvn",
       "img": "https://shopping.toss.im/live/temp/2025-08-28/59874c41-91da-4f9c-9b78-e1b367f0ab38.jpeg",
       "headline": "활용도좋은 세트구성",
-      "views": 81319
+      "views": 81319,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 504835165,
@@ -362,7 +398,9 @@
       "url": "https://toss.shopping/_m/3pxGMw9A",
       "img": "https://shopping.toss.im/live/temp/2026-02-06/8ce9ed24-6791-40c1-bece-7ac8e2dca0e9.jpeg",
       "headline": "터치 컨트롤 기능",
-      "views": 212841
+      "views": 212841,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 626483150,
@@ -381,7 +419,9 @@
       "url": "https://toss.shopping/_m/PUpiaUny",
       "img": "https://shopping.toss.im/live/temp/2026-07-31/b0d16d16-39b3-4b77-876d-63264a53ce0a.jpeg",
       "headline": null,
-      "views": 24466
+      "views": 24466,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1452915195,
@@ -400,7 +440,9 @@
       "url": "https://toss.shopping/_m/TxqIkH0g",
       "img": "https://shopping.toss.im/live/temp/2026-08-06/3b268136-a3b6-4290-a446-8d4865f0b095.png",
       "headline": null,
-      "views": 17254
+      "views": 17254,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1332141340,
@@ -419,7 +461,9 @@
       "url": "https://toss.shopping/_m/RPF62iji",
       "img": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
       "headline": null,
-      "views": 81738
+      "views": 71777,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1585025426,
@@ -429,7 +473,7 @@
       "orig": 10000,
       "dc": 45,
       "score": 4.8,
-      "reviews": 2749,
+      "reviews": 2750,
       "rank": 23,
       "bestRank": 26,
       "soldOut": false,
@@ -438,7 +482,9 @@
       "url": "https://toss.shopping/_m/ZqFbwEnD",
       "img": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
       "headline": null,
-      "views": 58053
+      "views": 48958,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1628999886,
@@ -448,7 +494,7 @@
       "orig": 46900,
       "dc": 76,
       "score": 4.7,
-      "reviews": 2803,
+      "reviews": 2804,
       "rank": 24,
       "bestRank": 27,
       "soldOut": false,
@@ -457,7 +503,9 @@
       "url": "https://toss.shopping/_m/ZXqUXdUj",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
       "headline": null,
-      "views": 151876
+      "views": 151876,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 820919209,
@@ -476,7 +524,9 @@
       "url": "https://toss.shopping/_m/14g0kabw",
       "img": "https://shopping.toss.im/live/temp/2026-09-11/520e07ab-3a43-4bc4-ad06-f6922cbf88c0.png",
       "headline": null,
-      "views": 42194
+      "views": 42194,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1405127136,
@@ -495,7 +545,9 @@
       "url": "https://toss.shopping/_m/xUdBRjtn",
       "img": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
       "headline": null,
-      "views": 63390
+      "views": 63390,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1788092366,
@@ -514,7 +566,9 @@
       "url": "https://toss.shopping/_m/zx2lfVoc",
       "img": "https://shopping.toss.im/live/temp/2026-05-14/78d1ed8b-4493-449d-beee-4060f5700b3a.jpeg",
       "headline": "탱글핫도그10개입",
-      "views": 3836
+      "views": 3836,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 438089220,
@@ -533,7 +587,9 @@
       "url": "https://toss.shopping/_m/rWutYXTg",
       "img": "https://shopping.toss.im/live/temp/2026-03-18/8be57eba-6c35-47fe-9339-72c1298e7e13.png",
       "headline": "선착순핫딜/구이용",
-      "views": 14725
+      "views": 14725,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 237201532,
@@ -543,7 +599,7 @@
       "orig": 39600,
       "dc": 88,
       "score": 4.6,
-      "reviews": 1820,
+      "reviews": 1822,
       "rank": 29,
       "bestRank": 36,
       "soldOut": false,
@@ -552,7 +608,9 @@
       "url": "https://toss.shopping/_m/Vi9adxn2",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/700e7092-4de8-4f4f-9e98-d7e271273554.png",
       "headline": null,
-      "views": 90552
+      "views": 83239,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1878413598,
@@ -571,7 +629,9 @@
       "url": "https://toss.shopping/_m/NStrH5on",
       "img": "https://shopping.toss.im/live/temp/2025-07-14/98971eff-375a-484a-befe-314ce3b95109.jpeg",
       "headline": null,
-      "views": 6898
+      "views": 6898,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1957329757,
@@ -590,7 +650,9 @@
       "url": "https://toss.shopping/_m/rLzBQLxj",
       "img": "https://shopping.toss.im/live/temp/2026-06-05/04ca20ba-b4fb-4b0a-b6bb-1306650cd638.jpeg",
       "headline": "김삼두장인",
-      "views": 42263
+      "views": 43673,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 769741865,
@@ -609,7 +671,9 @@
       "url": "https://toss.shopping/_m/RhhMs54w",
       "img": "https://shopping.toss.im/live/temp/2026-08-13/3688119b-6719-4105-994f-8226825ac03f.png",
       "headline": "1+1",
-      "views": 10084
+      "views": 10084,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 933626439,
@@ -628,7 +692,9 @@
       "url": "https://toss.shopping/_m/lxoMzEA4",
       "img": "https://shopping.toss.im/live/temp/2026-03-13/c603d75d-3321-4de2-b42a-ccb8dc7356fe.jpeg",
       "headline": null,
-      "views": 3627
+      "views": 3627,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 310409303,
@@ -647,7 +713,9 @@
       "url": "https://toss.shopping/_m/5TxRiME8",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/335c5136-fbc5-498c-8ca2-69c8d9a2849a.jpeg",
       "headline": null,
-      "views": 2741
+      "views": 2741,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1494304883,
@@ -666,7 +734,9 @@
       "url": "https://toss.shopping/_m/VAlIsSQk",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/033ee196-f2be-4f97-b363-f6955b0f83ed.jpeg",
       "headline": null,
-      "views": 42359
+      "views": 49320,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 347422867,
@@ -685,7 +755,9 @@
       "url": "https://toss.shopping/_m/JKi94l9c",
       "img": "https://shopping.toss.im/live/temp/2026-06-23/c590b955-a7b7-475c-ae53-4b18aa62aca1.jpeg",
       "headline": null,
-      "views": 13582
+      "views": 13582,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1673154294,
@@ -704,7 +776,9 @@
       "url": "https://toss.shopping/_m/n49jJp9g",
       "img": "https://shopping.toss.im/live/temp/2026-06-24/ef54efc4-27bf-4f38-875c-89f80631ed26.png",
       "headline": "이장네",
-      "views": 26798
+      "views": 26798,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1156277834,
@@ -723,7 +797,9 @@
       "url": "https://toss.shopping/_m/nSKotE9s",
       "img": "https://shopping.toss.im/live/temp/2025-02-12/c3c11bcc-579d-4e25-a3b4-3ced27999120.jpeg",
       "headline": null,
-      "views": 13584
+      "views": 13584,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1140970404,
@@ -742,7 +818,9 @@
       "url": "https://toss.shopping/_m/9PQ7sm8A",
       "img": "https://shopping.toss.im/live/temp/2026-04-22/589facef-a0b7-4a6e-9be2-d3fb35e95c38.jpeg",
       "headline": "리뷰가 증명한",
-      "views": 23640
+      "views": 23640,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 751178704,
@@ -761,7 +839,9 @@
       "url": "https://toss.shopping/_m/5I2MixAs",
       "img": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
       "headline": null,
-      "views": 26111
+      "views": 26111,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 758522190,
@@ -780,7 +860,9 @@
       "url": "https://toss.shopping/_m/VB8JWFV1",
       "img": "https://shopping.toss.im/live/temp/2025-12-18/1a200763-db65-4323-8aeb-2819fdce5b95.jpeg",
       "headline": "햄소시지 듬뿍",
-      "views": 12006
+      "views": 11944,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1688112482,
@@ -799,7 +881,9 @@
       "url": "https://toss.shopping/_m/L3X3DJ57",
       "img": "https://shopping.toss.im/live/temp/2025-07-23/8505f7f0-aa0f-4617-b6a9-911805858e93.jpeg",
       "headline": "비욘드오리진",
-      "views": 15892
+      "views": 15892,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 570127898,
@@ -818,7 +902,9 @@
       "url": "https://toss.shopping/_m/R73SPCDi",
       "img": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
       "headline": null,
-      "views": 56586
+      "views": 56586,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1770934248,
@@ -837,7 +923,9 @@
       "url": "https://toss.shopping/_m/f6Vd20F8",
       "img": "https://shopping.toss.im/live/temp/2025-03-26/6c949f8f-7120-4625-a2e1-8ccd2d5e88b8.jpeg",
       "headline": "바삭바삭 최신 제조",
-      "views": 904
+      "views": 904,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1919397461,
@@ -856,7 +944,9 @@
       "url": "https://toss.shopping/_m/xAmjrbFa",
       "img": "https://shopping.toss.im/live/temp/2024-11-20/39b5ee17-9dcd-4f65-a1b3-16d0be5ebf9e.jpeg",
       "headline": null,
-      "views": 1587
+      "views": 1587,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1589249954,
@@ -875,7 +965,9 @@
       "url": "https://toss.shopping/_m/DVgnxVKt",
       "img": "https://shopping.toss.im/live/temp/2025-07-08/d30e7efc-af4e-4ffd-91e1-c5fd19425eb4.jpeg",
       "headline": null,
-      "views": 61398
+      "views": 57093,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2067502890,
@@ -894,7 +986,9 @@
       "url": "https://toss.shopping/_m/LwQAI9Aj",
       "img": "https://shopping.toss.im/live/temp/2025-04-01/7acd960e-b97c-431e-bb25-cd6cf6c4f1bb.jpeg",
       "headline": "애슐리치킨2봉",
-      "views": 4293
+      "views": 4293,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1631298045,
@@ -913,7 +1007,9 @@
       "url": "https://toss.shopping/_m/HlpGp0us",
       "img": "https://shopping.toss.im/live/temp/2026-06-15/07bc2270-a6bd-4f1d-958b-ccfe8a9788e2.jpeg",
       "headline": null,
-      "views": 64788
+      "views": 64788,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1822537801,
@@ -932,7 +1028,9 @@
       "url": "https://toss.shopping/_m/PtyI6CPk",
       "img": "https://shopping.toss.im/live/temp/2025-07-15/ee2a542d-fbb4-49aa-9021-1202aa0debb4.jpeg",
       "headline": "서가",
-      "views": 9050
+      "views": 9522,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1214118283,
@@ -951,7 +1049,9 @@
       "url": "https://toss.shopping/_m/LrZJ8vkn",
       "img": "https://shopping.toss.im/live/temp/2025-09-05/edaaa778-cf3e-4ddc-ad1b-0445ed5a58a9.jpeg",
       "headline": "모든열원 사용가능",
-      "views": 50114
+      "views": 50114,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 2129520741,
@@ -970,7 +1070,9 @@
       "url": "https://toss.shopping/_m/Rb70duTt",
       "img": "https://shopping.toss.im/live/temp/2025-07-25/29782c7d-1d6d-475c-ba88-293016303f67.jpeg",
       "headline": null,
-      "views": 54120
+      "views": 54120,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 275261397,
@@ -989,7 +1091,9 @@
       "url": "https://toss.shopping/_m/ZbLDj8py",
       "img": "https://shopping.toss.im/live/temp/2025-09-29/1ee368d6-3807-407f-b05c-7069b02eba8a.jpeg",
       "headline": "모찌처럼 늘어나는",
-      "views": 17798
+      "views": 17798,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1903338497,
@@ -1008,7 +1112,9 @@
       "url": "https://toss.shopping/_m/JBYJXG8A",
       "img": "https://shopping.toss.im/live/temp/2026-06-07/2a3bc365-1dce-4570-909a-fec3b6a0453f.jpeg",
       "headline": "뱃살 쏘옥",
-      "views": 2681
+      "views": 2681,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 816031247,
@@ -1027,7 +1133,9 @@
       "url": "https://toss.shopping/_m/Dk48NzG",
       "img": "https://shopping.toss.im/live/product/8657115/3566d8d8-f545-421c-ba1b-7301f3d432f6.jpeg",
       "headline": null,
-      "views": 29607
+      "views": 29607,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1651952344,
@@ -1046,7 +1154,9 @@
       "url": "https://toss.shopping/_m/DrwCKtl8",
       "img": "https://shopping.toss.im/live/product/28900203/4963a922-b21a-476f-a72a-9116c19734fd.jpeg",
       "headline": null,
-      "views": 24972
+      "views": 24972,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 423523813,
@@ -1065,7 +1175,9 @@
       "url": "https://toss.shopping/_m/Tg3VMJB3",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
       "headline": "7P 구성",
-      "views": 143862
+      "views": 137797,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1191210259,
@@ -1084,7 +1196,9 @@
       "url": "https://toss.shopping/_m/LED5fEVq",
       "img": "https://shopping.toss.im/live/temp/2025-10-10/570bcfb4-2e22-421c-be55-06690eebea69.jpeg",
       "headline": "오늘의특가",
-      "views": 139885
+      "views": 139885,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1877087338,
@@ -1103,7 +1217,9 @@
       "url": "https://toss.shopping/_m/tmzASpUa",
       "img": "https://shopping.toss.im/live/temp/2025-10-29/57704ba4-858d-4e73-b5f6-7a43e7555d61.png",
       "headline": "쪄서가는 쫀득쫀득",
-      "views": 2433
+      "views": 2433,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1382854071,
@@ -1122,7 +1238,9 @@
       "url": "https://toss.shopping/_m/3WFPGL4m",
       "img": "https://shopping.toss.im/live/temp/2025-07-14/cf32bb22-bf44-4b81-85b6-27ec4f2b604d.jpeg",
       "headline": null,
-      "views": 10434
+      "views": 10649,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 2137394181,
@@ -1141,7 +1259,9 @@
       "url": "https://toss.shopping/_m/BGyabs9b",
       "img": "https://shopping.toss.im/live/temp/2025-09-11/e6997ced-4107-49b3-947c-6213e668d801.jpeg",
       "headline": "당일생산",
-      "views": 91367
+      "views": 91367,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1187685651,
@@ -1160,7 +1280,9 @@
       "url": "https://toss.shopping/_m/F1BmfGai",
       "img": "https://shopping.toss.im/live/temp/2025-08-22/55cef9a5-388f-42d0-a4c5-51e4bdc6f773.jpeg",
       "headline": null,
-      "views": 5819
+      "views": 5819,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 985871495,
@@ -1179,7 +1301,9 @@
       "url": "https://toss.shopping/_m/jBealPLe",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/0466061f-5a7a-4125-b385-4a3827351a7a.jpeg",
       "headline": "쌀때쟁여요",
-      "views": 30135
+      "views": 30135,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1852936596,
@@ -1198,7 +1322,9 @@
       "url": "https://toss.shopping/_m/VwPRvjPu",
       "img": "https://shopping.toss.im/live/temp/2026-06-08/9ae516e5-3bbd-4990-8dc1-0b5fab53a603.jpeg",
       "headline": null,
-      "views": 2114
+      "views": 2114,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 676543646,
@@ -1217,7 +1343,9 @@
       "url": "https://toss.shopping/_m/J1lzYwjn",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/eedd5246-1fd2-47e8-8af5-d77b5e45c17e.png",
       "headline": "산지직송",
-      "views": 470370
+      "views": 470370,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 564884637,
@@ -1236,7 +1364,9 @@
       "url": "https://toss.shopping/_m/XFPpyckx",
       "img": "https://shopping.toss.im/live/temp/2025-08-05/0c32948a-5e0e-4d82-8e56-2a74ee2d3196.jpeg",
       "headline": "1+1 극세사",
-      "views": 21302
+      "views": 21154,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1875400572,
@@ -1255,7 +1385,9 @@
       "url": "https://toss.shopping/_m/H1KaikoB",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/7a7005c7-e09f-4cf9-83cb-d430299d7419.png",
       "headline": "눈밑주름 집중케어",
-      "views": 8350
+      "views": 8350,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 660587496,
@@ -1274,7 +1406,9 @@
       "url": "https://toss.shopping/_m/X6HiRO2A",
       "img": "https://shopping.toss.im/live/temp/2026-03-10/1457fa33-30ea-4e62-97c5-26f221b20a39.jpeg",
       "headline": null,
-      "views": 50404
+      "views": 50404,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 867735273,
@@ -1293,7 +1427,9 @@
       "url": "https://toss.shopping/_m/fMbMI1oC",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/eceec336-318c-4f77-b76d-aeca9a350ea1.jpeg",
       "headline": "역마진 한정수량",
-      "views": 3261
+      "views": 3261,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 824710336,
@@ -1312,7 +1448,9 @@
       "url": "https://toss.shopping/_m/dsOyOGWz",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/726d6ca7-c9b2-4a3d-ad93-6eff7d9864b5.png",
       "headline": null,
-      "views": 23369
+      "views": 39105,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 997602317,
@@ -1331,7 +1469,9 @@
       "url": "https://toss.shopping/_m/FfLVmEaC",
       "img": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
       "headline": "아스파시아",
-      "views": 37152
+      "views": 34983,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 791190712,
@@ -1350,7 +1490,9 @@
       "url": "https://toss.shopping/_m/PJikruPk",
       "img": "https://shopping.toss.im/live/temp/2026-07-15/9e7a0840-2cf5-4a4b-97aa-82dc8d41c11d.jpeg",
       "headline": "그린너트",
-      "views": 40784
+      "views": 47547,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 732629858,
@@ -1369,7 +1511,9 @@
       "url": "https://toss.shopping/_m/DEK4v9V",
       "img": "https://shopping.toss.im/live/temp/2026-04-24/e458a85f-73d7-4453-8395-320acb032056.jpeg",
       "headline": "앵콜특가1+1",
-      "views": 2141
+      "views": 2010,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 253025550,
@@ -1388,7 +1532,9 @@
       "url": "https://toss.shopping/_m/9xO6etF4",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/aa9fea11-5484-464e-b9e3-5d45b2280871.jpeg",
       "headline": null,
-      "views": 3128
+      "views": 3128,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 2083385870,
@@ -1407,7 +1553,9 @@
       "url": "https://toss.shopping/_m/rvmyfQa8",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/448e142f-9c2e-4d9a-b32e-91175f8af53d.jpeg",
       "headline": null,
-      "views": 1954
+      "views": 1954,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 287757514,
@@ -1426,7 +1574,9 @@
       "url": "https://toss.shopping/_m/HeJXzqEu",
       "img": "https://shopping.toss.im/live/temp/2026-01-22/afa5328e-d7ca-4ef8-bee0-fd5bb5ad871a.jpeg",
       "headline": "1kg에 이가격",
-      "views": 21316
+      "views": 21316,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 152557788,
@@ -1445,7 +1595,9 @@
       "url": "https://toss.shopping/_m/R7Y2DAad",
       "img": "https://shopping.toss.im/live/temp/2025-10-13/94d583b5-f321-4930-bd19-080dbb50bc05.png",
       "headline": "속이편한 천연발효빵",
-      "views": 6637
+      "views": 6213,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1333873926,
@@ -1464,7 +1616,9 @@
       "url": "https://toss.shopping/_m/ZT2kELpj",
       "img": "https://shopping.toss.im/live/temp/2026-01-26/7cd55339-27f6-48d7-bed6-aad0bab55a5b.jpeg",
       "headline": "HACCP인증",
-      "views": 3936
+      "views": 3936,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1427428349,
@@ -1474,7 +1628,7 @@
       "orig": 14900,
       "dc": 33,
       "score": 4.6,
-      "reviews": 11947,
+      "reviews": 11948,
       "rank": 78,
       "bestRank": 124,
       "soldOut": false,
@@ -1483,7 +1637,9 @@
       "url": "https://toss.shopping/_m/Lekq4sjx",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/e9a8a788-8378-4e14-b831-a8d76451c775.jpeg",
       "headline": null,
-      "views": 207698
+      "views": 207698,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1669982338,
@@ -1502,7 +1658,9 @@
       "url": "https://toss.shopping/_m/fqlviqpe",
       "img": "https://shopping.toss.im/live/product/26681571/be0596b4-cdc8-4d3e-8f5c-4b73d3432066.jpeg",
       "headline": "홈웨어 베스트",
-      "views": 37310
+      "views": 40724,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1406436512,
@@ -1521,7 +1679,9 @@
       "url": "https://toss.shopping/_m/VIUxJjPz",
       "img": "https://shopping.toss.im/live/temp/2025-07-15/92d3f5bc-3923-4969-8513-c7c9407d9070.jpeg",
       "headline": "무릎통증·러닝필수템",
-      "views": 14207
+      "views": 14207,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1723910214,
@@ -1540,7 +1700,9 @@
       "url": "https://toss.shopping/_m/NX3dCIbw",
       "img": "https://shopping.toss.im/live/temp/2026-04-30/ee13890b-6fbb-4866-a305-c565d4f82212.jpeg",
       "headline": null,
-      "views": 23789
+      "views": 23789,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 45666314,
@@ -1559,7 +1721,9 @@
       "url": "https://toss.shopping/_m/NarcXSyx",
       "img": "https://shopping.toss.im/live/temp/2025-03-31/0b7d0700-81fb-43ad-87c9-f93470ee91f5.jpeg",
       "headline": null,
-      "views": 55992
+      "views": 55992,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 636456456,
@@ -1578,7 +1742,9 @@
       "url": "https://toss.shopping/_m/l9WJ2ov8",
       "img": "https://shopping.toss.im/live/temp/2025-08-20/39df5acb-bd9c-4b91-8f72-20358ca0f52d.jpeg",
       "headline": null,
-      "views": 97535
+      "views": 97535,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1199649056,
@@ -1597,7 +1763,9 @@
       "url": "https://toss.shopping/_m/LnyeLbpo",
       "img": "https://shopping.toss.im/live/temp/2026-03-26/6db55332-6cf0-4150-a583-860d072a94b2.jpeg",
       "headline": "제주 맛집을 집에서",
-      "views": 4140
+      "views": 4140,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 625530057,
@@ -1616,7 +1784,9 @@
       "url": "https://toss.shopping/_m/xmidADF4",
       "img": "https://shopping.toss.im/live/temp/2026-08-27/8e15c5c2-14c2-4aef-af99-b9a341a82a33.jpeg",
       "headline": null,
-      "views": 5238
+      "views": 5463,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 252812024,
@@ -1635,7 +1805,9 @@
       "url": "https://toss.shopping/_m/jpcyeENt",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/0dec0cf9-671a-4645-93ef-b5ac0f62c7d9.jpeg",
       "headline": "코디",
-      "views": 44287
+      "views": 44287,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1294432680,
@@ -1654,7 +1826,9 @@
       "url": "https://toss.shopping/_m/Z0buC2r9",
       "img": "https://shopping.toss.im/live/temp/2026-06-18/9d602327-a037-485a-992d-e40127a71bdd.png",
       "headline": null,
-      "views": 6778
+      "views": 6778,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1819826090,
@@ -1673,7 +1847,9 @@
       "url": "https://toss.shopping/_m/7jLnW1qc",
       "img": "https://shopping.toss.im/live/temp/2025-07-24/798f2a01-2e64-4c17-8542-c967cd14d2e4.jpeg",
       "headline": null,
-      "views": 17255
+      "views": 17255,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1635368294,
@@ -1692,7 +1868,9 @@
       "url": "https://toss.shopping/_m/1Vq2X9is",
       "img": "https://shopping.toss.im/live/temp/2026-07-15/1af63491-29fa-4122-b59e-55f30de41828.jpeg",
       "headline": null,
-      "views": 49050
+      "views": 49050,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1042517963,
@@ -1711,7 +1889,9 @@
       "url": "https://toss.shopping/_m/3AIAMSI9",
       "img": "https://shopping.toss.im/live/temp/2025-05-28/e1f7384e-50b4-445e-827a-9558a7af939d.jpeg",
       "headline": null,
-      "views": 30733
+      "views": 30733,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1642445452,
@@ -1730,7 +1910,9 @@
       "url": "https://toss.shopping/_m/pUrxkvai",
       "img": "https://shopping.toss.im/live/temp/2025-09-24/dc34607c-862f-4453-b298-8428cf8778ef.jpeg",
       "headline": "모든열원 사용가능",
-      "views": 11083
+      "views": 11083,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1684879671,
@@ -1749,7 +1931,9 @@
       "url": "https://toss.shopping/_m/raDroUEj",
       "img": "https://shopping.toss.im/live/temp/2025-11-17/04642822-9bef-4d5f-b5b9-b4a6e7be8f6c.jpeg",
       "headline": "빗으면 스타일링 끝",
-      "views": 38041
+      "views": 38041,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1484682551,
@@ -1759,7 +1943,7 @@
       "orig": 21900,
       "dc": 70,
       "score": 4.2,
-      "reviews": 427,
+      "reviews": 428,
       "rank": 93,
       "bestRank": 144,
       "soldOut": false,
@@ -1768,7 +1952,9 @@
       "url": "https://toss.shopping/_m/TYCfsDO",
       "img": "https://shopping.toss.im/live/temp/2025-10-10/3c8c42ec-d0d1-4996-abf0-2c5cee582b35.jpeg",
       "headline": null,
-      "views": 13936
+      "views": 13936,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1739747434,
@@ -1787,7 +1973,9 @@
       "url": "https://toss.shopping/_m/joxnrN9m",
       "img": "https://shopping.toss.im/live/temp/2026-05-15/7f359e04-222c-43ca-a228-2fc9315c6ed8.jpeg",
       "headline": "신선한 사과를 가득",
-      "views": 5647
+      "views": 5647,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1358553412,
@@ -1806,7 +1994,9 @@
       "url": "https://toss.shopping/_m/vMNrMJpo",
       "img": "https://shopping.toss.im/live/temp/2025-10-14/716dd80c-1c07-448d-b055-d4ed8e64fe82.png",
       "headline": null,
-      "views": 16537
+      "views": 16537,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 834933550,
@@ -1825,7 +2015,9 @@
       "url": "https://toss.shopping/_m/zG3rTcOu",
       "img": "https://shopping.toss.im/live/temp/2026-06-10/1ceb45c9-affc-4555-a369-0858a9067b6a.png",
       "headline": "시원하게 프레쉬",
-      "views": 43742
+      "views": 37655,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1602753338,
@@ -1844,7 +2036,9 @@
       "url": "https://toss.shopping/_m/xSQQt3as",
       "img": "https://shopping.toss.im/live/product/1936991/2a3a139e-7001-4f0d-883a-acef4dfd09df.jpeg",
       "headline": "임박특가 26-11-15",
-      "views": 29772
+      "views": 29772,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 940476790,
@@ -1863,7 +2057,9 @@
       "url": "https://toss.shopping/_m/bScqsHkx",
       "img": "https://shopping.toss.im/live/product/4964999/ed7f942d-2024-43d4-9143-8da3447eab65.jpeg",
       "headline": "세탁기 청소·24개",
-      "views": 1386
+      "views": 1386,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1243657295,
@@ -1882,7 +2078,9 @@
       "url": "https://toss.shopping/_m/FAZma15B",
       "img": "https://shopping.toss.im/live/temp/2026-08-31/1f9e3722-fab5-4266-a398-d74542a4f2be.jpeg",
       "headline": null,
-      "views": 17671
+      "views": 17671,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1373908377,
@@ -1901,7 +2099,9 @@
       "url": "https://toss.shopping/_m/TCiVzhEC",
       "img": "https://shopping.toss.im/live/product/1030211/9b0dfe90-1faf-4b7f-8dcd-0588e74e1d44.jpeg",
       "headline": null,
-      "views": 12277
+      "views": 12277,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 666569886,
@@ -1920,7 +2120,9 @@
       "url": "https://toss.shopping/_m/VA8LLJW1",
       "img": "https://shopping.toss.im/live/temp/2026-07-10/9a9bdb33-c95f-4ad9-be8f-4769b4fb70f7.png",
       "headline": null,
-      "views": 5240
+      "views": 5240,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 111838969,
@@ -1939,7 +2141,9 @@
       "url": "https://toss.shopping/_m/BTIOpAq7",
       "img": "https://shopping.toss.im/live/temp/2026-07-15/dce14e0b-6779-4341-8b07-863c932254cc.jpeg",
       "headline": null,
-      "views": 18899
+      "views": 18899,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1674715978,
@@ -1958,7 +2162,9 @@
       "url": "https://toss.shopping/_m/BTTWtcGa",
       "img": "https://shopping.toss.im/live/product/7974813/35ff974b-b263-4c1a-bb45-109d6b4e07b6.jpeg",
       "headline": null,
-      "views": 71809
+      "views": 71809,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 388411072,
@@ -1977,7 +2183,9 @@
       "url": "https://toss.shopping/_m/R2uLUYUl",
       "img": "https://shopping.toss.im/live/temp/2026-06-17/0fcafaae-f21e-4aa2-b265-b763d652ac4c.jpeg",
       "headline": null,
-      "views": 7159
+      "views": 7159,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 647351451,
@@ -1996,7 +2204,9 @@
       "url": "https://toss.shopping/_m/3zYKSGbd",
       "img": "https://shopping.toss.im/live/temp/2026-09-22/67854af3-a012-4ef9-ba29-705eb38ef9ed.png",
       "headline": null,
-      "views": 23907
+      "views": 26331,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1591130807,
@@ -2015,7 +2225,9 @@
       "url": "https://toss.shopping/_m/x6YiMdzj",
       "img": "https://shopping.toss.im/live/product/471659/d2d55882-3762-4e43-b15d-45a48642b090.jpeg",
       "headline": "화장대 혁명템",
-      "views": 59538
+      "views": 59538,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1881385069,
@@ -2034,7 +2246,9 @@
       "url": "https://toss.shopping/_m/X5zWURqj",
       "img": "https://shopping.toss.im/live/temp/2026-04-29/58aa8fef-0443-4ad1-99af-0e247bde6012.jpeg",
       "headline": null,
-      "views": 18191
+      "views": 18191,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 350703711,
@@ -2053,7 +2267,9 @@
       "url": "https://toss.shopping/_m/bjg3V0qo",
       "img": "https://shopping.toss.im/live/temp/2026-01-26/76273c8f-47a9-49f7-ae03-8f87fe298f97.jpeg",
       "headline": "한번에빠른손질",
-      "views": 3236
+      "views": 3236,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1651138272,
@@ -2072,7 +2288,9 @@
       "url": "https://toss.shopping/_m/lxnHDJmB",
       "img": "https://shopping.toss.im/live/temp/2026-04-21/46b47ebe-ad67-414b-9a39-320498b11fb7.jpeg",
       "headline": null,
-      "views": 22141
+      "views": 22070,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 656120699,
@@ -2091,7 +2309,9 @@
       "url": "https://toss.shopping/_m/jtjZzyyi",
       "img": "https://shopping.toss.im/live/temp/2026-05-22/9691b746-b318-4a0b-95b8-436af732f244.png",
       "headline": null,
-      "views": 59326
+      "views": 59326,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 168195024,
@@ -2110,7 +2330,9 @@
       "url": "https://toss.shopping/_m/h56NYoLt",
       "img": "https://shopping.toss.im/live/temp/2026-06-12/56228d17-abfb-4fad-9038-e7d13761df9f.jpeg",
       "headline": "아이들추천",
-      "views": 108432
+      "views": 111092,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1448981876,
@@ -2129,7 +2351,9 @@
       "url": "https://toss.shopping/_m/xEEFUEAt",
       "img": "https://shopping.toss.im/live/temp/2025-10-30/b5fa5c1f-742d-4c4a-be83-5288a4ae3a3f.jpeg",
       "headline": "품절대란",
-      "views": 2786
+      "views": 2786,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1238597071,
@@ -2139,7 +2363,7 @@
       "orig": 35000,
       "dc": 60,
       "score": 4.7,
-      "reviews": 6054,
+      "reviews": 6055,
       "rank": 113,
       "bestRank": 181,
       "soldOut": false,
@@ -2148,7 +2372,9 @@
       "url": "https://toss.shopping/_m/1B58BFIz",
       "img": "https://shopping.toss.im/live/temp/2026-08-12/8f4de164-2803-4870-8e13-530c511dab7d.jpeg",
       "headline": "0.26 초저산도",
-      "views": 97963
+      "views": 97963,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 911450998,
@@ -2167,7 +2393,9 @@
       "url": "https://toss.shopping/_m/l1JRqLCz",
       "img": "https://shopping.toss.im/live/product/1803704/1a0e87e1-8b01-4439-9a5e-c615605a7bf4.jpeg",
       "headline": "재구매 폭주",
-      "views": 25025
+      "views": 26236,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1230733175,
@@ -2186,7 +2414,9 @@
       "url": "https://toss.shopping/_m/1yf5Zlpw",
       "img": "https://shopping.toss.im/live/temp/2025-10-02/6c4f2f71-f345-40ac-bc9a-65fe40601adb.jpeg",
       "headline": "소문난 맛집",
-      "views": 4424
+      "views": 4424,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 902893337,
@@ -2205,7 +2435,9 @@
       "url": "https://toss.shopping/_m/5qKiJKlh",
       "img": "https://shopping.toss.im/live/temp/2026-08-31/ae73c442-36b1-4192-abee-cc4d17acb980.jpeg",
       "headline": null,
-      "views": 18436
+      "views": 18436,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 760227486,
@@ -2224,7 +2456,9 @@
       "url": "https://toss.shopping/_m/rvAnJ7rD",
       "img": "https://shopping.toss.im/live/temp/2026-02-11/0a0deb9a-09e8-45a6-a23a-607f1280c665.jpeg",
       "headline": null,
-      "views": 19878
+      "views": 19878,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 481261615,
@@ -2243,7 +2477,9 @@
       "url": "https://toss.shopping/_m/JN8I50Y6",
       "img": "https://shopping.toss.im/live/temp/2026-08-06/258ab0ae-dbff-484e-8ff0-bbf8911e0ffd.jpeg",
       "headline": null,
-      "views": 5829
+      "views": 5829,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1665544233,
@@ -2262,7 +2498,9 @@
       "url": "https://toss.shopping/_m/HXDiGQPz",
       "img": "https://shopping.toss.im/live/temp/2026-06-25/5a183727-b90d-4b9f-a641-d1da6f8d6e08.png",
       "headline": "최저가 도전",
-      "views": 9949
+      "views": 9949,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1026317983,
@@ -2281,7 +2519,9 @@
       "url": "https://toss.shopping/_m/F49yOLoC",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/03255d69-c493-4f3b-9758-bb293b370d5f.png",
       "headline": "품절대란",
-      "views": 7413
+      "views": 7413,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1591445657,
@@ -2300,7 +2540,9 @@
       "url": "https://toss.shopping/_m/fdO1AFcn",
       "img": "https://shopping.toss.im/live/temp/2025-04-10/3f6e2ae7-eeb6-4a3d-9138-8703ee4115e8.jpeg",
       "headline": null,
-      "views": 3535
+      "views": 3535,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 2099677109,
@@ -2319,7 +2561,9 @@
       "url": "https://toss.shopping/_m/fPkQKj5q",
       "img": "https://shopping.toss.im/live/product/1303533/a788422a-ce84-4367-b7eb-4052c4150e8b.jpeg",
       "headline": null,
-      "views": 6823
+      "views": 6593,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 598154955,
@@ -2338,7 +2582,9 @@
       "url": "https://toss.shopping/_m/nfvDWZd2",
       "img": "https://shopping.toss.im/live/product/491759/83972948-534b-4bfb-93a3-043cd3fb8ce4.jpg",
       "headline": "국내산 아귀",
-      "views": 7768
+      "views": 7768,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 584234651,
@@ -2357,7 +2603,9 @@
       "url": "https://toss.shopping/_m/BS9Rdg72",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/0c893bc7-4d2e-441d-8c57-a4051cf0107e.png",
       "headline": "리뷰 이벤트 증정",
-      "views": 3721
+      "views": 3759,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 818838094,
@@ -2376,7 +2624,9 @@
       "url": "https://toss.shopping/_m/pXRcf8C4",
       "img": "https://shopping.toss.im/live/temp/2024-11-14/656b1c11-a6c8-43cb-aa4f-5da46e504952.jpeg",
       "headline": null,
-      "views": 2583
+      "views": 2583,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1977812111,
@@ -2395,7 +2645,9 @@
       "url": "https://toss.shopping/_m/RNNZShc8",
       "img": "https://shopping.toss.im/live/temp/2026-06-29/ea1cd943-4d59-4f87-84c8-c3fda89f144d.jpeg",
       "headline": "간절기몸보신특가",
-      "views": 2007
+      "views": 2007,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1639359830,
@@ -2414,7 +2666,9 @@
       "url": "https://toss.shopping/_m/zb72kOq7",
       "img": "https://shopping.toss.im/live/temp/2025-07-29/0b353ffb-750e-4b32-a7f5-15b0cfa18702.png",
       "headline": null,
-      "views": 1124
+      "views": 1118,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 186303414,
@@ -2433,7 +2687,9 @@
       "url": "https://toss.shopping/_m/Tgda5yb8",
       "img": "https://shopping.toss.im/live/temp/2025-11-10/c19a01e3-41e6-4c2d-a346-f2c6220aef35.jpeg",
       "headline": "생선숙편",
-      "views": 1242
+      "views": 1250,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1238415375,
@@ -2452,7 +2708,9 @@
       "url": "https://toss.shopping/_m/VHVzGPzj",
       "img": "https://shopping.toss.im/live/temp/2025-02-26/a0d098c9-9664-485f-9d28-3f6a3bb52959.jpeg",
       "headline": null,
-      "views": 707
+      "views": 713,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1829524797,
@@ -2471,7 +2729,9 @@
       "url": "https://toss.shopping/_m/pK9SSmVa",
       "img": "https://shopping.toss.im/live/temp/2025-11-10/3c3578d5-31af-4321-acc4-98f6645c65c6.jpeg",
       "headline": "채선당",
-      "views": 1052
+      "views": 1112,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2028754490,
@@ -2490,7 +2750,9 @@
       "url": "https://toss.shopping/_m/JfCXCbl8",
       "img": "https://shopping.toss.im/live/temp/2026-04-15/66421dcc-a003-4c01-9234-92c5a7f56b23.jpeg",
       "headline": null,
-      "views": 50890
+      "views": 50890,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 684692173,
@@ -2509,7 +2771,9 @@
       "url": "https://toss.shopping/_m/NJKsEVUo",
       "img": "https://shopping.toss.im/live/temp/2026-06-01/36952a3e-393c-4115-9a75-b7af8c6d82dc.jpeg",
       "headline": null,
-      "views": 1929
+      "views": 1929,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1219909958,
@@ -2528,7 +2792,9 @@
       "url": "https://toss.shopping/_m/t9So32q9",
       "img": "https://shopping.toss.im/live/temp/2026-04-06/ba9574b5-efd8-4dc9-82cf-7fa5cd9b5337.jpeg",
       "headline": null,
-      "views": 34384
+      "views": 34384,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1774364611,
@@ -2547,7 +2813,9 @@
       "url": "https://toss.shopping/_m/pt3tkFFp",
       "img": "https://shopping.toss.im/live/product/42317133/9f0ed1c3-583c-4b50-b8d4-d1a27de971b8.jpeg",
       "headline": "특제짜장 6인분세트",
-      "views": 28784
+      "views": 27893,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1661945335,
@@ -2566,7 +2834,9 @@
       "url": "https://toss.shopping/_m/3yjcJ6Aj",
       "img": "https://shopping.toss.im/live/temp/2026-04-03/e4b71444-7c17-4a35-84ce-1218e8cd6e08.jpeg",
       "headline": null,
-      "views": 6332
+      "views": 6332,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 272211313,
@@ -2585,7 +2855,9 @@
       "url": "https://toss.shopping/_m/lqoCGFUt",
       "img": "https://shopping.toss.im/288/live/product/416028277/288709fc-c41b-4bd2-972a-590729e7978e.jpg",
       "headline": null,
-      "views": 8538
+      "views": 8538,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1810094112,
@@ -2604,7 +2876,9 @@
       "url": "https://toss.shopping/_m/RVJNOTBi",
       "img": "https://shopping.toss.im/live/temp/2026-04-03/9e3c8ec6-dc02-4f08-bb54-6aac6f86af78.jpeg",
       "headline": null,
-      "views": 6736
+      "views": 6736,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 319449027,
@@ -2623,7 +2897,9 @@
       "url": "https://toss.shopping/_m/fZFhnM6l",
       "img": "https://shopping.toss.im/live/temp/2025-05-21/8f71f8b1-3302-4384-9ba6-b67c18b67f5f.jpeg",
       "headline": "진하고 얼큰한 국물",
-      "views": 2794
+      "views": 2854,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1013047898,
@@ -2642,7 +2918,9 @@
       "url": "https://toss.shopping/_m/HdLtWY4m",
       "img": "https://shopping.toss.im/live/temp/2026-07-08/a8155bfe-78b2-4114-9fdc-bdf5a8e14844.jpeg",
       "headline": null,
-      "views": 7060
+      "views": 7072,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 818435765,
@@ -2661,7 +2939,9 @@
       "url": "https://toss.shopping/_m/X8T3qknr",
       "img": "https://shopping.toss.im/live/temp/2026-08-26/33c2a0b4-4ca5-4436-a98a-2b8ed57af313.jpeg",
       "headline": "자취생을 위한",
-      "views": 4646
+      "views": 4646,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 701292405,
@@ -2680,7 +2960,9 @@
       "url": "https://toss.shopping/_m/tf7XLFGp",
       "img": "https://shopping.toss.im/live/temp/2026-03-17/749f118e-c685-4889-8980-be6a2e8efca8.jpeg",
       "headline": null,
-      "views": 5473
+      "views": 5473,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 52216814,
@@ -2699,7 +2981,9 @@
       "url": "https://toss.shopping/_m/rXA1iTdn",
       "img": "https://shopping.toss.im/live/temp/2026-04-03/92005b64-7318-48c5-9170-a37c0e92f4dd.jpeg",
       "headline": null,
-      "views": 2674
+      "views": 2674,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 692294272,
@@ -2718,7 +3002,9 @@
       "url": "https://toss.shopping/_m/X0e5uS8w",
       "img": "https://shopping.toss.im/live/temp/2026-03-28/05c0e8a4-f411-49b1-9ce3-d1eb05a16231.jpeg",
       "headline": "TS117",
-      "views": 3711
+      "views": 3711,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2004316347,
@@ -2737,7 +3023,9 @@
       "url": "https://toss.shopping/_m/922WLgax",
       "img": "https://shopping.toss.im/live/temp/2026-07-23/c93efffd-736f-4cb9-b4bd-0f70e8e9fce7.jpeg",
       "headline": null,
-      "views": 3187
+      "views": 3181,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 773401773,
@@ -2756,7 +3044,30 @@
       "url": "https://toss.shopping/_m/Jk5jvcYq",
       "img": "https://shopping.toss.im/live/temp/2026-04-28/82890cc0-476a-4888-aa8d-9086f3b72199.jpeg",
       "headline": null,
-      "views": 6758
+      "views": 6758,
+      "lowest30": null,
+      "guaranteed": null
+    },
+    {
+      "id": 187444179,
+      "cat": "ramen",
+      "name": "농심 육개장사발면 86g 18개 + 김치사발면 86g 6개, 1세트",
+      "price": 23500,
+      "orig": 44165,
+      "dc": 46,
+      "score": 4.7,
+      "reviews": 82,
+      "rank": 16,
+      "bestRank": null,
+      "soldOut": false,
+      "endAt": "2026-10-08T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/dWWJhWRy",
+      "img": "https://shopping.toss.im/live/temp/2026-08-06/0e4b7528-81e7-4aa0-bd34-0521052da8fd.png",
+      "headline": null,
+      "views": 4158,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1228547598,
@@ -2767,7 +3078,7 @@
       "dc": 45,
       "score": 4.9,
       "reviews": 185,
-      "rank": 16,
+      "rank": 17,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
@@ -2775,7 +3086,30 @@
       "url": "https://toss.shopping/_m/pmZtgl9x",
       "img": "https://shopping.toss.im/live/temp/2025-07-15/9897abad-c8d5-49bb-a11e-f13f2391830d.jpeg",
       "headline": null,
-      "views": 2208
+      "views": 2208,
+      "lowest30": true,
+      "guaranteed": null
+    },
+    {
+      "id": 547092152,
+      "cat": "ramen",
+      "name": "농심 라면 묶음, 신라면 120g 5개 + 너구리 120g 5개 + 오징어짬뽕 124g 5개 + 짜파게티 140g 5개, 총 20개",
+      "price": 20000,
+      "orig": 32659,
+      "dc": 38,
+      "score": 4.9,
+      "reviews": 41,
+      "rank": 18,
+      "bestRank": null,
+      "soldOut": false,
+      "endAt": "2026-10-08T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/1WfYTMOz",
+      "img": "https://shopping.toss.im/live/temp/2026-08-11/92ac9b5b-7a39-4c25-baf7-e4236d0259f6.png",
+      "headline": null,
+      "views": 3017,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1635334996,
@@ -2794,7 +3128,9 @@
       "url": "https://toss.shopping/_m/hk0TPiBj",
       "img": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
       "headline": "당일출발.후기보증",
-      "views": 323333
+      "views": 323333,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 406772285,
@@ -2813,7 +3149,9 @@
       "url": "https://toss.shopping/_m/NV5yfM5m",
       "img": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
       "headline": null,
-      "views": 309085
+      "views": 309085,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1270605554,
@@ -2832,7 +3170,9 @@
       "url": "https://toss.shopping/_m/bH9J6fwo",
       "img": "https://shopping.toss.im/live/product/25263607/5afc0399-59a8-4162-8f1f-9d9b5bfcd6fd.jpeg",
       "headline": null,
-      "views": 103988
+      "views": 104023,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 642325277,
@@ -2851,7 +3191,9 @@
       "url": "https://toss.shopping/_m/RF0iuQ7q",
       "img": "https://shopping.toss.im/live/temp/2026-10-02/946fc86d-9f98-4dde-93fc-d9bea3f8a4c0.jpeg",
       "headline": "대용량 가성비",
-      "views": 3247
+      "views": 3247,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1366118657,
@@ -2870,7 +3212,9 @@
       "url": "https://toss.shopping/_m/z2ScwFEy",
       "img": "https://shopping.toss.im/live/temp/2026-04-21/56f19af7-c3a2-4421-8d2f-72b89ddbc35c.jpeg",
       "headline": null,
-      "views": 2277
+      "views": 2277,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 820919209,
@@ -2889,7 +3233,9 @@
       "url": "https://toss.shopping/_m/14g0kabw",
       "img": "https://shopping.toss.im/live/temp/2026-09-11/520e07ab-3a43-4bc4-ad06-f6922cbf88c0.png",
       "headline": null,
-      "views": 42194
+      "views": 42194,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 333537260,
@@ -2908,7 +3254,9 @@
       "url": "https://toss.shopping/_m/1TVDU6Uz",
       "img": "https://shopping.toss.im/live/temp/2026-08-10/cb380006-a3f2-4847-9dfc-a4632a66e1d1.jpeg",
       "headline": "인기폭발과자",
-      "views": 33798
+      "views": 33798,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1975076206,
@@ -2927,7 +3275,9 @@
       "url": "https://toss.shopping/_m/xjZ7UJEC",
       "img": "https://shopping.toss.im/live/temp/2025-09-09/f2437dc7-66e2-4bca-b427-b3d51ec2b48a.png",
       "headline": null,
-      "views": 10398
+      "views": 10398,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1502369206,
@@ -2946,7 +3296,9 @@
       "url": "https://toss.shopping/_m/Ftqs39vy",
       "img": "https://shopping.toss.im/live/temp/2025-07-07/c614e645-177a-41a9-895b-ebbc16750b87.jpeg",
       "headline": null,
-      "views": 42271
+      "views": 42271,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 783190306,
@@ -2965,7 +3317,9 @@
       "url": "https://toss.shopping/_m/NS8jtKH",
       "img": "https://shopping.toss.im/live/temp/2026-08-18/d4b82c0c-8da4-49fa-aa14-8babb23ab724.png",
       "headline": null,
-      "views": 63347
+      "views": 63347,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 747243361,
@@ -2984,7 +3338,9 @@
       "url": "https://toss.shopping/_m/LxeemEyC",
       "img": "https://shopping.toss.im/fa703cd0-9f25-4df7-a21d-04d55c368109.jpg",
       "headline": null,
-      "views": 14845
+      "views": 14845,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1029086253,
@@ -3003,7 +3359,9 @@
       "url": "https://toss.shopping/_m/xmhmbRQD",
       "img": "https://shopping.toss.im/live/temp/2025-12-19/ea08a694-15d1-45df-9b81-7471d3e86245.jpeg",
       "headline": "당일출고 후기보증",
-      "views": 31324
+      "views": 31324,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 626483150,
@@ -3022,7 +3380,9 @@
       "url": "https://toss.shopping/_m/PUpiaUny",
       "img": "https://shopping.toss.im/live/temp/2026-07-31/b0d16d16-39b3-4b77-876d-63264a53ce0a.jpeg",
       "headline": null,
-      "views": 24466
+      "views": 24466,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1086363528,
@@ -3041,7 +3401,9 @@
       "url": "https://toss.shopping/_m/Lcay91c3",
       "img": "https://shopping.toss.im/live/temp/2025-11-17/ce3e218f-2e9a-4303-b9d3-fde7fbee2734.jpeg",
       "headline": "4CM 높이/8가지맛",
-      "views": 4026
+      "views": 3969,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 516382567,
@@ -3060,7 +3422,9 @@
       "url": "https://toss.shopping/_m/9MW5v1r7",
       "img": "https://shopping.toss.im/live/temp/2026-08-04/0a6c54e8-fe18-4371-9f9a-3ef7dea4c88a.jpeg",
       "headline": null,
-      "views": 2569
+      "views": 2569,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 70288236,
@@ -3079,7 +3443,9 @@
       "url": "https://toss.shopping/_m/vSKZREm8",
       "img": "https://shopping.toss.im/live/temp/2026-08-11/7e88d74d-6dc9-49cc-9faa-f470b8181699.jpeg",
       "headline": "크라운 인기스낵",
-      "views": 16516
+      "views": 16516,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1973654550,
@@ -3098,7 +3464,9 @@
       "url": "https://toss.shopping/_m/T7CLYkbb",
       "img": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
       "headline": "두번 구운",
-      "views": 29907
+      "views": 29907,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 68006961,
@@ -3117,7 +3485,9 @@
       "url": "https://toss.shopping/_m/LRLujfLp",
       "img": "https://shopping.toss.im/live/temp/2025-08-06/131f6243-bca5-4166-b740-616c3eaf0e10.jpeg",
       "headline": null,
-      "views": 30910
+      "views": 30910,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1117202525,
@@ -3136,7 +3506,9 @@
       "url": "https://toss.shopping/_m/pI0gGc1h",
       "img": "https://shopping.toss.im/live/temp/2026-07-27/cc9a864c-18bd-4f9b-9087-da5a46e42f05.jpeg",
       "headline": "품절대란 비스킷",
-      "views": 25331
+      "views": 30766,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1850473852,
@@ -3155,7 +3527,9 @@
       "url": "https://toss.shopping/_m/BrsiFp8x",
       "img": "https://shopping.toss.im/live/product/229919/c538b7e3-86cc-4e78-aa02-0d6ccbd93f57.jpg",
       "headline": null,
-      "views": 14905
+      "views": 14905,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 648655840,
@@ -3174,7 +3548,9 @@
       "url": "https://toss.shopping/_m/BFRf6IWp",
       "img": "https://shopping.toss.im/live/temp/2026-04-06/33b2ee43-586e-4cfe-95d9-6dff839175c7.png",
       "headline": "인기세트",
-      "views": 20384
+      "views": 20384,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 268572465,
@@ -3193,7 +3569,9 @@
       "url": "https://toss.shopping/_m/Xwky5GWb",
       "img": "https://shopping.toss.im/live/temp/2026-05-14/23e4f5ba-dbd6-464d-ac56-9e552a66e9c2.png",
       "headline": "추억의 맛",
-      "views": 21211
+      "views": 21211,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1348222348,
@@ -3212,7 +3590,9 @@
       "url": "https://toss.shopping/_m/dKOnJ6ot",
       "img": "https://shopping.toss.im/live/temp/2025-11-26/34a6a515-3bde-4a53-8990-1c240b6f516c.jpeg",
       "headline": null,
-      "views": 3819
+      "views": 3246,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 659993029,
@@ -3222,7 +3602,7 @@
       "orig": 21900,
       "dc": 28,
       "score": 4.7,
-      "reviews": 1331,
+      "reviews": 1332,
       "rank": 24,
       "bestRank": null,
       "soldOut": false,
@@ -3231,7 +3611,9 @@
       "url": "https://toss.shopping/_m/t4ToYSvn",
       "img": "https://shopping.toss.im/live/temp/2025-10-20/65fcf951-dfbb-4cfd-9699-e13758ffe632.jpeg",
       "headline": "산과들에",
-      "views": 18245
+      "views": 18245,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 751178704,
@@ -3250,7 +3632,9 @@
       "url": "https://toss.shopping/_m/5I2MixAs",
       "img": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
       "headline": null,
-      "views": 26111
+      "views": 26111,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1643999453,
@@ -3269,7 +3653,9 @@
       "url": "https://toss.shopping/_m/JOlFX0t8",
       "img": "https://shopping.toss.im/live/temp/2026-01-21/339f54d7-ac8d-4d0d-ba5c-b9716cec35b7.png",
       "headline": null,
-      "views": 42017
+      "views": 42017,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 893044976,
@@ -3279,7 +3665,7 @@
       "orig": 12900,
       "dc": 51,
       "score": 4.7,
-      "reviews": 4394,
+      "reviews": 4404,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -3288,7 +3674,9 @@
       "url": "https://toss.shopping/_m/j1mB5a5A",
       "img": "https://shopping.toss.im/live/temp/2026-09-04/32f7cf27-c736-4acc-9c0d-552e882e6102.jpeg",
       "headline": "후기가 증명",
-      "views": 191300
+      "views": 191300,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1948816296,
@@ -3307,7 +3695,9 @@
       "url": "https://toss.shopping/_m/DY6B7BDC",
       "img": "https://shopping.toss.im/live/temp/2025-07-08/ccf27be0-20d9-4633-ac57-85c04cc23538.jpeg",
       "headline": "공식수입원",
-      "views": 4546
+      "views": 4546,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 690220620,
@@ -3326,7 +3716,9 @@
       "url": "https://toss.shopping/_m/l4TfjeLD",
       "img": "https://shopping.toss.im/live/temp/2026-05-15/211d82da-3204-449d-a28a-db955074f798.png",
       "headline": null,
-      "views": 12510
+      "views": 12510,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1075917304,
@@ -3345,7 +3737,9 @@
       "url": "https://toss.shopping/_m/nre5M5bg",
       "img": "https://shopping.toss.im/live/temp/2025-04-04/c7fa5bbb-20ef-4f01-a6d3-abbd8206914a.jpeg",
       "headline": null,
-      "views": 2719
+      "views": 2882,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1730395621,
@@ -3364,7 +3758,9 @@
       "url": "https://toss.shopping/_m/51h86Qn3",
       "img": "https://shopping.toss.im/live/temp/2026-01-19/de59f15d-a7d3-4ce5-91ac-d0b76a0efe6e.jpeg",
       "headline": "공식판매처",
-      "views": 21416
+      "views": 21416,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 973816078,
@@ -3383,7 +3779,9 @@
       "url": "https://toss.shopping/_m/ZDgLMRbi",
       "img": "https://shopping.toss.im/live/temp/2026-04-27/f50f85f1-6ead-4e35-9e28-4631e5dabad4.jpeg",
       "headline": null,
-      "views": 340
+      "views": 340,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 563294907,
@@ -3402,7 +3800,9 @@
       "url": "https://toss.shopping/_m/L55lNR2c",
       "img": "https://shopping.toss.im/live/temp/2026-03-24/c1c89706-7266-4ec2-adb1-96b03785fa4b.jpeg",
       "headline": null,
-      "views": 16347
+      "views": 16347,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1450024536,
@@ -3421,7 +3821,9 @@
       "url": "https://toss.shopping/_m/B2RIKvBd",
       "img": "https://shopping.toss.im/live/temp/2025-06-13/8b21321a-3d17-4028-9fb6-69a1b5b91660.jpeg",
       "headline": "추가증정",
-      "views": 8517
+      "views": 8517,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2137241360,
@@ -3440,7 +3842,9 @@
       "url": "https://toss.shopping/_m/jfq3wITe",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/dd688928-94bb-4659-8a21-970a15bd6e77.png",
       "headline": null,
-      "views": 9209
+      "views": 9209,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1067465840,
@@ -3459,7 +3863,9 @@
       "url": "https://toss.shopping/_m/1NDVajrj",
       "img": "https://shopping.toss.im/live/temp/2026-01-07/bdba399b-a915-4642-b540-02c02d087751.png",
       "headline": null,
-      "views": 6836
+      "views": 6836,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1456930943,
@@ -3478,7 +3884,9 @@
       "url": "https://toss.shopping/_m/3AEmxhqm",
       "img": "https://shopping.toss.im/live/temp/2025-12-28/b867b666-630b-47c8-a42c-1d42dc411c8d.jpeg",
       "headline": null,
-      "views": 3829
+      "views": 3741,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 644469097,
@@ -3497,7 +3905,9 @@
       "url": "https://toss.shopping/_m/XBTrllom",
       "img": "https://shopping.toss.im/live/temp/2026-04-05/73b98fd8-b2c4-4b7e-bed3-6e7dbdc94e1f.png",
       "headline": null,
-      "views": 4259
+      "views": 4259,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1423412669,
@@ -3516,7 +3926,9 @@
       "url": "https://toss.shopping/_m/3NZxJGMp",
       "img": "https://shopping.toss.im/live/temp/2026-07-24/e7048799-0dc0-4df5-980c-666d3d1aabdc.jpeg",
       "headline": "BEST/인기 조합",
-      "views": 13746
+      "views": 13746,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2113825339,
@@ -3535,7 +3947,9 @@
       "url": "https://toss.shopping/_m/nA1J0Dow",
       "img": "https://shopping.toss.im/live/temp/2026-06-22/b0785aa2-1228-438e-acc5-e28fd134d5a2.jpeg",
       "headline": null,
-      "views": 5796
+      "views": 5863,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1387293817,
@@ -3554,7 +3968,9 @@
       "url": "https://toss.shopping/_m/rzHyA0j3",
       "img": "https://shopping.toss.im/live/temp/2026-03-26/fb7a327b-53f2-483a-ad92-e15efde1a973.png",
       "headline": null,
-      "views": 3875
+      "views": 3875,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 853722974,
@@ -3573,7 +3989,9 @@
       "url": "https://toss.shopping/_m/RcNjCSFp",
       "img": "https://shopping.toss.im/live/temp/2025-09-15/381556c6-6d31-4d92-8737-f6785e8a005a.png",
       "headline": null,
-      "views": 3499
+      "views": 3499,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1258520190,
@@ -3592,7 +4010,9 @@
       "url": "https://toss.shopping/_m/Nc6jLKTt",
       "img": "https://shopping.toss.im/live/temp/2026-03-26/b8ae208a-d192-4631-9f47-c0d8025e7e0b.png",
       "headline": null,
-      "views": 4291
+      "views": 4291,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2036431702,
@@ -3611,7 +4031,9 @@
       "url": "https://toss.shopping/_m/hP1XWdTD",
       "img": "https://shopping.toss.im/live/temp/2026-04-27/75293dde-32d3-489a-a77e-cc23952b1656.jpeg",
       "headline": null,
-      "views": 339
+      "views": 342,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1261389839,
@@ -3630,7 +4052,9 @@
       "url": "https://toss.shopping/_m/D7fzW4Bt",
       "img": "https://shopping.toss.im/live/product/581607/90a181b4-c43f-422c-b48e-41833a7caa34.jpg",
       "headline": null,
-      "views": 4556
+      "views": 4556,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1604785836,
@@ -3649,7 +4073,9 @@
       "url": "https://toss.shopping/_m/ZKtWt5bx",
       "img": "https://shopping.toss.im/live/temp/2026-04-19/da881898-77aa-4216-960d-43546fb2cee5.jpeg",
       "headline": null,
-      "views": 308
+      "views": 308,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1169130430,
@@ -3668,7 +4094,9 @@
       "url": "https://toss.shopping/_m/BM5VJyTt",
       "img": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
       "headline": null,
-      "views": 335155
+      "views": 334882,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 782213114,
@@ -3687,7 +4115,9 @@
       "url": "https://toss.shopping/_m/1kEqfFEx",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/fa233394-2b3e-411b-950f-ee1236fecce2.png",
       "headline": null,
-      "views": 295476
+      "views": 295476,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 238427159,
@@ -3697,7 +4127,7 @@
       "orig": 39600,
       "dc": 72,
       "score": 4.6,
-      "reviews": 7475,
+      "reviews": 7476,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -3706,7 +4136,9 @@
       "url": "https://toss.shopping/_m/3wxGRxTD",
       "img": "https://shopping.toss.im/live/temp/2026-09-13/c5515028-dee6-4397-98ee-41240dbd3a83.png",
       "headline": null,
-      "views": 318555
+      "views": 318555,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1864828643,
@@ -3725,7 +4157,9 @@
       "url": "https://toss.shopping/_m/1phSkOTy",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/e493168a-4cca-4b16-9c8e-2afc92a09991.jpeg",
       "headline": null,
-      "views": 230848
+      "views": 230848,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1713811003,
@@ -3744,7 +4178,9 @@
       "url": "https://toss.shopping/_m/xKRpXnZ5",
       "img": "https://shopping.toss.im/live/temp/2026-08-28/2b7cc9f8-09e5-4772-a1c6-b1e37d157bda.jpeg",
       "headline": "쌀때쟁여요",
-      "views": 168556
+      "views": 168556,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1628999886,
@@ -3754,7 +4190,7 @@
       "orig": 46900,
       "dc": 76,
       "score": 4.7,
-      "reviews": 2803,
+      "reviews": 2804,
       "rank": 6,
       "bestRank": null,
       "soldOut": false,
@@ -3763,7 +4199,9 @@
       "url": "https://toss.shopping/_m/ZXqUXdUj",
       "img": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
       "headline": null,
-      "views": 151876
+      "views": 151876,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1264049803,
@@ -3782,7 +4220,9 @@
       "url": "https://toss.shopping/_m/Xt4Oqno8",
       "img": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
       "headline": null,
-      "views": 161103
+      "views": 161103,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 916255954,
@@ -3801,7 +4241,9 @@
       "url": "https://toss.shopping/_m/NpHDhRFd",
       "img": "https://shopping.toss.im/live/temp/2026-09-09/53d6e4d6-42eb-4602-b9cd-509db12cf016.jpeg",
       "headline": null,
-      "views": 115995
+      "views": 116174,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1705678690,
@@ -3820,7 +4262,9 @@
       "url": "https://toss.shopping/_m/py2AI83m",
       "img": "https://shopping.toss.im/live/temp/2025-06-05/f19b42f0-7bc7-4a21-b91b-7089d83de9fd.png",
       "headline": null,
-      "views": 132413
+      "views": 132413,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 237201532,
@@ -3830,7 +4274,7 @@
       "orig": 39600,
       "dc": 88,
       "score": 4.6,
-      "reviews": 1820,
+      "reviews": 1822,
       "rank": 10,
       "bestRank": null,
       "soldOut": false,
@@ -3839,7 +4283,9 @@
       "url": "https://toss.shopping/_m/Vi9adxn2",
       "img": "https://shopping.toss.im/live/temp/2026-09-21/700e7092-4de8-4f4f-9e98-d7e271273554.png",
       "headline": null,
-      "views": 90552
+      "views": 83239,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1001162193,
@@ -3858,7 +4304,9 @@
       "url": "https://toss.shopping/_m/bf0N7tr2",
       "img": "https://shopping.toss.im/live/temp/2026-08-05/802cb089-3991-415e-88a4-3b9d4c6252eb.jpeg",
       "headline": null,
-      "views": 10377
+      "views": 10377,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2143360594,
@@ -3877,7 +4325,9 @@
       "url": "https://toss.shopping/_m/J8646Pm8",
       "img": "https://shopping.toss.im/live/temp/2026-04-11/c1e92e1c-86b9-4106-9051-6856b901f232.jpeg",
       "headline": null,
-      "views": 105836
+      "views": 105836,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 931464226,
@@ -3896,7 +4346,9 @@
       "url": "https://toss.shopping/_m/HQp8D5mr",
       "img": "https://shopping.toss.im/live/temp/2025-06-12/0b12c7e3-ad55-434d-a5de-f5838943c99a.jpeg",
       "headline": "이중미세모·30개",
-      "views": 79360
+      "views": 94519,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 732196255,
@@ -3915,7 +4367,9 @@
       "url": "https://toss.shopping/_m/t9B2Zvj8",
       "img": "https://shopping.toss.im/live/temp/2026-09-22/a29f603c-119f-4792-aaf1-2c831bf7dec6.jpeg",
       "headline": null,
-      "views": 2349
+      "views": 2349,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1718953833,
@@ -3934,7 +4388,9 @@
       "url": "https://toss.shopping/_m/HbJ3TPWb",
       "img": "https://shopping.toss.im/live/temp/2026-07-01/0a8c679d-730a-4d5f-a1a5-f6c35a7835a8.png",
       "headline": null,
-      "views": 52548
+      "views": 52548,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1232869922,
@@ -3953,7 +4409,9 @@
       "url": "https://toss.shopping/_m/f2qUHE9v",
       "img": "https://shopping.toss.im/live/temp/2026-04-30/346efa4b-0a91-4c9b-836e-49337dfc4eee.jpeg",
       "headline": "쌀때쟁여요",
-      "views": 80696
+      "views": 80696,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 417052186,
@@ -3972,7 +4430,9 @@
       "url": "https://toss.shopping/_m/HGuJ1JFd",
       "img": "https://shopping.toss.im/3ff/live/product/834251053/3ffd2f2a-0e54-4d6f-92ba-79e259e224c4.jpg",
       "headline": null,
-      "views": 56130
+      "views": 56130,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 264935905,
@@ -3991,7 +4451,9 @@
       "url": "https://toss.shopping/_m/LCKV74qm",
       "img": "https://shopping.toss.im/live/product/529291/50d3c178-afe9-4848-92a8-eaaaf025f42b.jpg",
       "headline": null,
-      "views": 65363
+      "views": 65013,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1485257208,
@@ -4010,7 +4472,9 @@
       "url": "https://toss.shopping/_m/h1Jpuzmd",
       "img": "https://shopping.toss.im/live/temp/2026-09-03/7da6c852-fb57-41cf-a811-8e7b8dce1225.jpeg",
       "headline": null,
-      "views": 42575
+      "views": 42649,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1405000676,
@@ -4029,7 +4493,9 @@
       "url": "https://toss.shopping/_m/7rCuZ0oi",
       "img": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
       "headline": null,
-      "views": 88280
+      "views": 88280,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 436644421,
@@ -4048,7 +4514,9 @@
       "url": "https://toss.shopping/_m/rSng4naq",
       "img": "https://shopping.toss.im/live/product/6296085/82d2dc7d-5d80-48fa-9d4c-52596e78cd9f.jpeg",
       "headline": null,
-      "views": 56384
+      "views": 56838,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 55950809,
@@ -4067,7 +4535,9 @@
       "url": "https://toss.shopping/_m/dtvdZzWg",
       "img": "https://shopping.toss.im/live/temp/2026-01-20/9fa78118-291c-4b94-8168-f8ef3f8a8cb0.jpeg",
       "headline": null,
-      "views": 1247
+      "views": 1187,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1410246466,
@@ -4086,7 +4556,9 @@
       "url": "https://toss.shopping/_m/xotBljWl",
       "img": "https://shopping.toss.im/live/temp/2026-10-01/aca23495-461a-40af-ae29-a8dd95a1faad.jpeg",
       "headline": null,
-      "views": 53712
+      "views": 53712,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1591130807,
@@ -4105,7 +4577,9 @@
       "url": "https://toss.shopping/_m/x6YiMdzj",
       "img": "https://shopping.toss.im/live/product/471659/d2d55882-3762-4e43-b15d-45a48642b090.jpeg",
       "headline": "화장대 혁명템",
-      "views": 59538
+      "views": 59538,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1602753338,
@@ -4124,7 +4598,9 @@
       "url": "https://toss.shopping/_m/xSQQt3as",
       "img": "https://shopping.toss.im/live/product/1936991/2a3a139e-7001-4f0d-883a-acef4dfd09df.jpeg",
       "headline": "임박특가 26-11-15",
-      "views": 29772
+      "views": 29772,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 278159668,
@@ -4143,7 +4619,9 @@
       "url": "https://toss.shopping/_m/9L2ziVQp",
       "img": "https://shopping.toss.im/live/temp/2025-11-27/6cade5f7-d581-47d6-a373-d9792810fcac.jpeg",
       "headline": "2+2 렌지 용기",
-      "views": 5088
+      "views": 5273,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1881727121,
@@ -4162,7 +4640,9 @@
       "url": "https://toss.shopping/_m/RnoZNGty",
       "img": "https://shopping.toss.im/live/temp/2026-06-30/9fba19a7-a34e-4286-94fa-314014fbe288.png",
       "headline": null,
-      "views": 228507
+      "views": 228507,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 33786611,
@@ -4172,7 +4652,7 @@
       "orig": 29900,
       "dc": 80,
       "score": 4.6,
-      "reviews": 1991,
+      "reviews": 1993,
       "rank": 3,
       "bestRank": null,
       "soldOut": false,
@@ -4181,7 +4661,9 @@
       "url": "https://toss.shopping/_m/VF8pk38B",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
       "headline": null,
-      "views": 189056
+      "views": 189056,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 2019041184,
@@ -4200,7 +4682,9 @@
       "url": "https://toss.shopping/_m/7JCMLpar",
       "img": "https://shopping.toss.im/live/temp/2026-08-31/4fb9678e-8fc9-43f3-86e7-4e67f89e57f7.jpeg",
       "headline": null,
-      "views": 174843
+      "views": 174843,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 388603175,
@@ -4219,7 +4703,9 @@
       "url": "https://toss.shopping/_m/BS5roqtD",
       "img": "https://shopping.toss.im/live/temp/2026-09-07/979383ba-d6c5-4207-b13d-38f874007a7a.png",
       "headline": null,
-      "views": 6083
+      "views": 6083,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 423523813,
@@ -4238,7 +4724,9 @@
       "url": "https://toss.shopping/_m/Tg3VMJB3",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
       "headline": "7P 구성",
-      "views": 143862
+      "views": 137797,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1954934048,
@@ -4257,7 +4745,9 @@
       "url": "https://toss.shopping/_m/DoUHEcg8",
       "img": "https://shopping.toss.im/9a2/live/product/846585429/9a204993-3731-4186-8353-22d252d815af.jpg",
       "headline": "이지앤프리",
-      "views": 125614
+      "views": 127036,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1972627384,
@@ -4276,7 +4766,9 @@
       "url": "https://toss.shopping/_m/7r7UrcVv",
       "img": "https://shopping.toss.im/live/temp/2026-03-19/b1bd6215-81cb-46a3-b33b-7c61d04aae00.png",
       "headline": "뒤집개 증정행사",
-      "views": 153140
+      "views": 153140,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 648889269,
@@ -4295,7 +4787,9 @@
       "url": "https://toss.shopping/_m/v79EfAvn",
       "img": "https://shopping.toss.im/live/temp/2025-08-28/59874c41-91da-4f9c-9b78-e1b367f0ab38.jpeg",
       "headline": "활용도좋은 세트구성",
-      "views": 81319
+      "views": 81319,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 228155928,
@@ -4314,7 +4808,9 @@
       "url": "https://toss.shopping/_m/B37q16La",
       "img": "https://shopping.toss.im/live/temp/2025-04-16/0bb47bcd-960b-4ef6-b2e8-8531fa8a2475.jpeg",
       "headline": "1+1",
-      "views": 60317
+      "views": 60317,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 202796218,
@@ -4333,7 +4829,9 @@
       "url": "https://toss.shopping/_m/ZFp43Zbg",
       "img": "https://shopping.toss.im/live/temp/2026-07-09/6557b58f-cf22-4446-9e7a-d197e5d19029.jpeg",
       "headline": null,
-      "views": 93939
+      "views": 93986,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1580266365,
@@ -4352,7 +4850,9 @@
       "url": "https://toss.shopping/_m/VSV6o8hh",
       "img": "https://shopping.toss.im/live/temp/2026-09-10/a4bf15df-91f2-4458-944e-6ce13eadc640.jpeg",
       "headline": "이지앤프리",
-      "views": 51681
+      "views": 51681,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2034784098,
@@ -4371,7 +4871,30 @@
       "url": "https://toss.shopping/_m/ngEc5svj",
       "img": "https://shopping.toss.im/live/temp/2026-08-27/8cf1f927-ced8-4553-b09f-495377af7c56.jpeg",
       "headline": null,
-      "views": 29428
+      "views": 29428,
+      "lowest30": null,
+      "guaranteed": null
+    },
+    {
+      "id": 1015729612,
+      "cat": "kitchen",
+      "name": "스테인리스 주방칼 6종, 블랙, 1세트",
+      "price": 10900,
+      "orig": 42900,
+      "dc": 74,
+      "score": 4.3,
+      "reviews": 1843,
+      "rank": 14,
+      "bestRank": null,
+      "soldOut": false,
+      "endAt": "2026-10-08T23:59:59+09:00",
+      "source": "manual",
+      "url": "https://toss.shopping/_m/LB56ALWl",
+      "img": "https://shopping.toss.im/live/temp/2026-05-08/d8eeb43c-f6ee-4ee7-96ca-b88f3f2a52e4.jpeg",
+      "headline": "6종에 이 가격",
+      "views": 33327,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1099044273,
@@ -4382,7 +4905,7 @@
       "dc": 63,
       "score": 4.6,
       "reviews": 337,
-      "rank": 14,
+      "rank": 15,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4390,7 +4913,9 @@
       "url": "https://toss.shopping/_m/p43xbLLo",
       "img": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
       "headline": "마지막 특가",
-      "views": 24380
+      "views": 24380,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1437323068,
@@ -4401,7 +4926,7 @@
       "dc": 76,
       "score": 4.6,
       "reviews": 2964,
-      "rank": 15,
+      "rank": 16,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4409,7 +4934,9 @@
       "url": "https://toss.shopping/_m/pNSMGlKp",
       "img": "https://shopping.toss.im/live/temp/2026-03-11/1817a4b2-c652-4228-9f14-d1916c6014eb.jpeg",
       "headline": "쉬젤",
-      "views": 41461
+      "views": 41461,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 164324394,
@@ -4420,7 +4947,7 @@
       "dc": 72,
       "score": 4.7,
       "reviews": 433,
-      "rank": 16,
+      "rank": 17,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-25T23:59:59+09:00",
@@ -4428,7 +4955,9 @@
       "url": "https://toss.shopping/_m/T51Vy4qy",
       "img": "https://shopping.toss.im/live/temp/2026-06-15/f3aaa8a2-871e-4215-b4af-c56cb3440548.png",
       "headline": null,
-      "views": 4558
+      "views": 4558,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 265274184,
@@ -4439,7 +4968,7 @@
       "dc": 67,
       "score": 4.5,
       "reviews": 1418,
-      "rank": 17,
+      "rank": 18,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4447,7 +4976,9 @@
       "url": "https://toss.shopping/_m/PR1EDWUA",
       "img": "https://shopping.toss.im/live/temp/2026-01-14/66601f2f-a731-4d9c-bb50-e703ea519e7b.jpeg",
       "headline": "가마솥밥을 집에서",
-      "views": 83839
+      "views": 83839,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1214118283,
@@ -4458,7 +4989,7 @@
       "dc": 87,
       "score": 4.5,
       "reviews": 1049,
-      "rank": 18,
+      "rank": 19,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4466,7 +4997,9 @@
       "url": "https://toss.shopping/_m/LrZJ8vkn",
       "img": "https://shopping.toss.im/live/temp/2025-09-05/edaaa778-cf3e-4ddc-ad1b-0445ed5a58a9.jpeg",
       "headline": "모든열원 사용가능",
-      "views": 50114
+      "views": 50114,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 1243657295,
@@ -4477,7 +5010,7 @@
       "dc": 65,
       "score": 4.6,
       "reviews": 115,
-      "rank": 19,
+      "rank": 20,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-15T23:59:59+09:00",
@@ -4485,7 +5018,9 @@
       "url": "https://toss.shopping/_m/FAZma15B",
       "img": "https://shopping.toss.im/live/temp/2026-08-31/1f9e3722-fab5-4266-a398-d74542a4f2be.jpeg",
       "headline": null,
-      "views": 17671
+      "views": 17671,
+      "lowest30": true,
+      "guaranteed": true
     },
     {
       "id": 346956175,
@@ -4496,7 +5031,7 @@
       "dc": 93,
       "score": 4.4,
       "reviews": 1128,
-      "rank": 20,
+      "rank": 21,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4504,7 +5039,9 @@
       "url": "https://toss.shopping/_m/beWCO9ot",
       "img": "https://shopping.toss.im/live/product/5463407/cfca548f-b2a5-408a-aae3-0e074676375e.jpeg",
       "headline": "다용도 활용가능",
-      "views": 34323
+      "views": 34323,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 33897645,
@@ -4515,7 +5052,7 @@
       "dc": 65,
       "score": 4.4,
       "reviews": 1398,
-      "rank": 21,
+      "rank": 22,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-27T23:59:59+09:00",
@@ -4523,7 +5060,9 @@
       "url": "https://toss.shopping/_m/nNj1E5FC",
       "img": "https://shopping.toss.im/live/temp/2026-06-07/8a41e5f5-5268-41aa-84a0-6f4eb77c744b.jpeg",
       "headline": null,
-      "views": 47777
+      "views": 47777,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1022186736,
@@ -4534,7 +5073,7 @@
       "dc": 78,
       "score": 4.3,
       "reviews": 946,
-      "rank": 22,
+      "rank": 23,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-17T23:59:59+09:00",
@@ -4542,7 +5081,9 @@
       "url": "https://toss.shopping/_m/p1E7pgZA",
       "img": "https://shopping.toss.im/live/temp/2026-03-19/b111d2fa-bfa3-4ce5-b41a-acf7971dec08.jpeg",
       "headline": "인덕션사용가능",
-      "views": 33394
+      "views": 33394,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1816349788,
@@ -4553,7 +5094,7 @@
       "dc": 50,
       "score": 4.1,
       "reviews": 499,
-      "rank": 23,
+      "rank": 24,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-11T23:59:59+09:00",
@@ -4561,7 +5102,9 @@
       "url": "https://toss.shopping/_m/lMDl8XmC",
       "img": "https://shopping.toss.im/live/temp/2026-08-13/207ab310-4bba-4353-a1eb-640be54753d0.png",
       "headline": null,
-      "views": 25396
+      "views": 25396,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 744899815,
@@ -4572,7 +5115,7 @@
       "dc": 61,
       "score": 4.1,
       "reviews": 1349,
-      "rank": 24,
+      "rank": 25,
       "bestRank": null,
       "soldOut": false,
       "endAt": "2026-10-13T23:59:59+09:00",
@@ -4580,7 +5123,9 @@
       "url": "https://toss.shopping/_m/58gTxXc3",
       "img": "https://shopping.toss.im/live/temp/2026-06-23/9da24dcd-ab8d-40a8-afd5-006256407e52.jpeg",
       "headline": null,
-      "views": 15480
+      "views": 15465,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1980592812,
@@ -4591,7 +5136,7 @@
       "dc": 53,
       "score": 4.6,
       "reviews": 914,
-      "rank": 25,
+      "rank": 26,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
@@ -4599,7 +5144,9 @@
       "url": "https://toss.shopping/_m/v0HCgHg3",
       "img": "https://shopping.toss.im/live/temp/2026-01-13/5136a6c9-d54c-40b1-bf91-375351eac795.jpeg",
       "headline": null,
-      "views": 14569
+      "views": 14569,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 2066764556,
@@ -4610,7 +5157,7 @@
       "dc": null,
       "score": 4.6,
       "reviews": 653,
-      "rank": 26,
+      "rank": 27,
       "bestRank": null,
       "soldOut": false,
       "endAt": null,
@@ -4618,7 +5165,9 @@
       "url": "https://toss.shopping/_m/DdejVaW5",
       "img": "https://shopping.toss.im/live/temp/2026-06-23/f896f180-69ac-4666-98fd-f395a4e89425.jpeg",
       "headline": "전자레인지 사용가능",
-      "views": 26222
+      "views": 26222,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 683389690,
@@ -4637,7 +5186,9 @@
       "url": "https://toss.shopping/_m/xTno6CLa",
       "img": "https://shopping.toss.im/live/temp/2026-02-23/fb3b6550-df7d-48f1-9f77-15ed60ce9c6f.jpeg",
       "headline": "토스전용쿠폰/초특가",
-      "views": 11142
+      "views": 11142,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 564925832,
@@ -4656,7 +5207,9 @@
       "url": "https://toss.shopping/_m/fPkp07rc",
       "img": "https://shopping.toss.im/live/temp/2026-04-28/ea6cbd81-6ac2-42d3-944f-ba659df8ec69.jpeg",
       "headline": null,
-      "views": 15861
+      "views": 15888,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1956249413,
@@ -4675,7 +5228,9 @@
       "url": "https://toss.shopping/_m/hPOUhOWj",
       "img": "https://shopping.toss.im/live/temp/2025-12-01/d7067b43-1463-4349-820e-6732be2aab45.png",
       "headline": null,
-      "views": 492
+      "views": 514,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 22275690,
@@ -4694,7 +5249,9 @@
       "url": "https://toss.shopping/_m/f32hJQbd",
       "img": "https://shopping.toss.im/live/temp/2026-08-03/18f58df9-3faa-4879-8c1f-5e2aa54e8877.jpeg",
       "headline": null,
-      "views": 2076
+      "views": 2107,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 162916716,
@@ -4713,7 +5270,9 @@
       "url": "https://toss.shopping/_m/HNs5YgXl",
       "img": "https://shopping.toss.im/live/temp/2025-05-15/7b72982d-8d4b-427f-b870-a11a537cf669.jpeg",
       "headline": "유통기한 임박특가",
-      "views": 5266
+      "views": 5251,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 588917885,
@@ -4732,7 +5291,9 @@
       "url": "https://toss.shopping/_m/R8TjglKp",
       "img": "https://shopping.toss.im/live/temp/2026-08-26/45731cb9-6707-4fc0-ba93-344ff3ca63a5.png",
       "headline": null,
-      "views": 4262
+      "views": 4262,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 191618477,
@@ -4751,7 +5312,9 @@
       "url": "https://toss.shopping/_m/reoSNpQt",
       "img": "https://shopping.toss.im/live/temp/2026-03-25/d7306193-82d5-468f-b4ad-1bdd7659bfe7.jpeg",
       "headline": null,
-      "views": 1382
+      "views": 1382,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 193933094,
@@ -4770,7 +5333,9 @@
       "url": "https://toss.shopping/_m/tx0gehgw",
       "img": "https://shopping.toss.im/live/temp/2025-05-29/39467ac3-3789-4549-9d27-9218188aa018.jpeg",
       "headline": null,
-      "views": 3595
+      "views": 3595,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 1457598938,
@@ -4789,7 +5354,9 @@
       "url": "https://toss.shopping/_m/Fa3CH9Wg",
       "img": "https://shopping.toss.im/live/temp/2026-01-19/401147a7-d4a8-4e69-885c-89d9d0d4341e.png",
       "headline": null,
-      "views": 2381
+      "views": 2381,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1759443807,
@@ -4808,7 +5375,9 @@
       "url": "https://toss.shopping/_m/BQMvscci",
       "img": "https://shopping.toss.im/live/temp/2025-09-18/f6e67cd1-73b3-4a99-8936-703103b0f629.jpeg",
       "headline": "사조펫 공식본사",
-      "views": 522
+      "views": 522,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 951834233,
@@ -4827,7 +5396,9 @@
       "url": "https://toss.shopping/_m/56VBNrnC",
       "img": "https://shopping.toss.im/live/temp/2025-07-08/1b5dab77-b896-4263-847e-7681721be021.jpeg",
       "headline": null,
-      "views": 2279
+      "views": 2279,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 745393224,
@@ -4846,7 +5417,9 @@
       "url": "https://toss.shopping/_m/xXdPOmRk",
       "img": "https://shopping.toss.im/live/temp/2025-12-24/13cb052c-e60a-4286-b33c-810fb7fd5113.jpeg",
       "headline": null,
-      "views": 1786
+      "views": 1786,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 865075752,
@@ -4865,7 +5438,9 @@
       "url": "https://toss.shopping/_m/ptrirZ92",
       "img": "https://shopping.toss.im/live/temp/2026-08-13/a66d00eb-8360-47d6-91ed-9460e244dfc0.jpeg",
       "headline": null,
-      "views": 1072
+      "views": 1072,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 897113941,
@@ -4884,7 +5459,9 @@
       "url": "https://toss.shopping/_m/bh2oK7w4",
       "img": "https://shopping.toss.im/live/temp/2026-03-12/ce319624-767b-43eb-8e90-d6a6013135f1.png",
       "headline": null,
-      "views": 1860
+      "views": 1860,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 678115623,
@@ -4903,7 +5480,9 @@
       "url": "https://toss.shopping/_m/lKHiflbn",
       "img": "https://shopping.toss.im/live/temp/2025-11-26/699d2fcc-ea59-453c-9dea-7b0e4e814760.jpeg",
       "headline": null,
-      "views": 1966
+      "views": 1966,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 170652280,
@@ -4922,7 +5501,9 @@
       "url": "https://toss.shopping/_m/FX41xV26",
       "img": "https://shopping.toss.im/live/temp/2026-05-14/77ece09a-f0e7-45fc-9d18-47bbfbc63af7.jpeg",
       "headline": null,
-      "views": 944
+      "views": 944,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 964451124,
@@ -4941,7 +5522,9 @@
       "url": "https://toss.shopping/_m/Fznooyxd",
       "img": "https://shopping.toss.im/3af/live/product/445819319/3afd6f40-9b9b-4c63-8bd3-21962a5cd78e.png",
       "headline": null,
-      "views": 4196
+      "views": 4196,
+      "lowest30": null,
+      "guaranteed": true
     },
     {
       "id": 1140476898,
@@ -4960,7 +5543,9 @@
       "url": "https://toss.shopping/_m/P84ghvqt",
       "img": "https://shopping.toss.im/live/temp/2026-03-05/1b200a2e-d680-4c67-931d-0ffd5151ad8c.jpeg",
       "headline": null,
-      "views": 936
+      "views": 936,
+      "lowest30": null,
+      "guaranteed": null
     },
     {
       "id": 1369702896,
@@ -4979,7 +5564,9 @@
       "url": "https://toss.shopping/_m/HWJZsShh",
       "img": "https://shopping.toss.im/live/temp/2026-04-02/d90d4ed9-3959-402b-b6b1-28b8b7158cfc.jpeg",
       "headline": null,
-      "views": 733
+      "views": 733,
+      "lowest30": true,
+      "guaranteed": null
     },
     {
       "id": 73798732,
@@ -4998,7 +5585,9 @@
       "url": "https://toss.shopping/_m/HMwq1kaw",
       "img": "https://shopping.toss.im/live/temp/2026-04-07/2cbc1d9b-b8a7-4d43-b304-9fc99c6d74c4.jpeg",
       "headline": null,
-      "views": 1125
+      "views": 1121,
+      "lowest30": null,
+      "guaranteed": null
     }
   ]
 }
